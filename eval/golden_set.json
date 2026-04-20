@@ -1,0 +1,20 @@
+[
+  {
+    "id": "q1",
+    "question": "Why did revenue decrease this quarter?",
+    "answer": "FILL IN FROM DOCUMENT",
+    "relevant_doc_ids": ["DOCUMENT_ID_HERE"]
+  },
+  {
+    "id": "q2",
+    "question": "What are the company's primary risk factors?",
+    "answer": "FILL IN FROM DOCUMENT",
+    "relevant_doc_ids": ["DOCUMENT_ID_HERE"]
+  },
+  {
+    "id": "q3",
+    "question": "How did operating expenses change year over year?",
+    "answer": "FILL IN FROM DOCUMENT",
+    "relevant_doc_ids": ["DOCUMENT_ID_HERE"]
+  }
+]

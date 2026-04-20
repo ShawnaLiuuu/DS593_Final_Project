@@ -1,0 +1,23 @@
+retrieval:
+  method: "semantic"        # "bm25", "semantic", or "hybrid"
+  top_k: 5
+  hybrid_alpha: 0.5         # weight for semantic score in hybrid (1-alpha = BM25)
+
+chunking:
+  strategy: "overlap"       # "fixed", "overlap", "sentence"
+  chunk_size: 512            # tokens
+  overlap: 64                # tokens (only used for "overlap" strategy)
+
+embedding:
+  model: "all-MiniLM-L6-v2" # sentence-transformers model
+
+generation:
+  model: "gpt-4o-mini"
+  temperature: 0.0
+  max_tokens: 512
+  prompt_strategy: "base"   # "base" or "structured"
+
+paths:
+  raw_data: "data/raw/"
+  processed: "data/processed/"
+  golden_set: "eval/golden_set.json"
