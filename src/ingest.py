@@ -23,10 +23,11 @@ def load_pdf(filepath: str) -> str:
 
 
 def load_html(filepath: str) -> str:
-    from bs4 import BeautifulSoup
+    from bs4 import BeautifulSoup, XMLParsedAsHTMLWarning
+    import warnings
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
     with open(filepath, "r", encoding="utf-8", errors="ignore") as f:
         soup = BeautifulSoup(f, "lxml")
-    # Remove script/style tags
     for tag in soup(["script", "style"]):
         tag.decompose()
     return soup.get_text(separator=" ", strip=True)
