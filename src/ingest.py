@@ -1,6 +1,6 @@
 """
 ingest.py
-Load and parse financial documents from PDFs, text files, or CSVs.
+Load and parse financial documents from PDFs, text files, CSVs, or HTML/HTM files.
 Outputs a list of Document dicts: {id, text, source, metadata}.
 """
 
@@ -22,8 +22,17 @@ def load_pdf(filepath: str) -> str:
     return extract_text(filepath)
 
 
+def load_html(filepath: str) -> str:
+    from bs4 import BeautifulSoup
+    with open(filepath, "r", encoding="utf-8", errors="ignore") as f:
+        soup = BeautifulSoup(f, "lxml")
+    # Remove script/style tags
+    for tag in soup(["script", "style"]):
+        tag.decompose()
+    return soup.get_text(separator=" ", strip=True)
+
+
 def load_csv(filepath: str) -> list[dict]:
-    """Each row becomes its own document using Title + Content."""
     docs = []
     with open(filepath, "r", encoding="utf-8", errors="ignore") as f:
         reader = csv.DictReader(f)
@@ -31,6 +40,7 @@ def load_csv(filepath: str) -> list[dict]:
             title = row.get("Title", "").strip()
             content = row.get("Content", "").strip()
             tag = row.get("Tag", "").strip()
+            category = row.get("Category", "").strip()
             if not content:
                 continue
             docs.append({
@@ -41,7 +51,8 @@ def load_csv(filepath: str) -> list[dict]:
                     "filename": Path(filepath).name,
                     "type": "csv",
                     "title": title,
-                    "tag": tag
+                    "tag": tag,
+                    "category": category
                 }
             })
     return docs
@@ -55,6 +66,8 @@ def load_document(filepath: str) -> list[dict]:
         return load_csv(filepath)
     elif ext == ".pdf":
         text = load_pdf(filepath)
+    elif ext in (".htm", ".html"):
+        text = load_html(filepath)
     elif ext in (".txt", ".md"):
         text = load_txt(filepath)
     else:
@@ -70,7 +83,7 @@ def load_document(filepath: str) -> list[dict]:
 
 def ingest_directory(input_dir: str) -> list[dict]:
     docs = []
-    supported = {".pdf", ".txt", ".md", ".csv"}
+    supported = {".pdf", ".txt", ".md", ".csv", ".htm", ".html"}
     files = [f for f in Path(input_dir).rglob("*") if f.suffix.lower() in supported]
 
     for filepath in tqdm(files, desc="Loading documents"):
@@ -86,7 +99,7 @@ def ingest_directory(input_dir: str) -> list[dict]:
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--input", required=True, help="Directory with raw documents")
+    parser.add_argument("--input", required=True)
     parser.add_argument("--output", default="data/processed/documents.json")
     args = parser.parse_args()
 
