@@ -2,7 +2,7 @@
   {
     "id": "q1",
     "question": "What was Apple's total net sales for fiscal year 2025?",
-    "answer": "Apple's total net sales for fiscal year 2025 were $391.035 billion.",
+    "answer": "Apple's total net sales for fiscal year 2025 were $416,161 million.",
     "relevant_doc_ids": ["apple_10k_2025"],
     "category": "10-K",
     "difficulty": "easy"
@@ -34,7 +34,7 @@
   {
     "id": "q5",
     "question": "What was Apple's research and development expense in fiscal year 2025?",
-    "answer": "Apple's research and development expense for fiscal year 2025 is disclosed in the consolidated statements of operations in the 10-K filing.",
+    "answer": "Apple's research and development expense for fiscal year 2025 was $34,550 million.",
     "relevant_doc_ids": ["apple_10k_2025"],
     "category": "10-K",
     "difficulty": "easy"
@@ -66,7 +66,7 @@
   {
     "id": "q9",
     "question": "What was Apple's diluted earnings per share for fiscal year 2025?",
-    "answer": "Apple's diluted earnings per share for fiscal year 2025 is reported in the consolidated statements of operations in the 10-K filing.",
+    "answer": "Apple's diluted earnings per share for fiscal year 2025 was $7.46.",
     "relevant_doc_ids": ["apple_10k_2025"],
     "category": "10-K",
     "difficulty": "easy"
