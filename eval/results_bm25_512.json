@@ -1,0 +1,144 @@
+{
+  "summary": {
+    "n": 15,
+    "avg_retrieval_accuracy": 0.5333333333333333,
+    "avg_token_overlap": 0.2876636363092094
+  },
+  "results": [
+    {
+      "id": "q1",
+      "question": "What was Apple's total net sales for fiscal year 2025?",
+      "reference_answer": "Apple's total net sales for fiscal year 2025 were $416,161 million.",
+      "predicted_answer": "Apple's total net sales for fiscal year 2025 were $416,161 million.",
+      "retrieval_accuracy": 1.0,
+      "exact_match": 1.0,
+      "token_overlap": 1.0
+    },
+    {
+      "id": "q2",
+      "question": "What are Apple's primary reportable segments?",
+      "reference_answer": "Apple's primary reportable segments are Americas, Europe, Greater China, Japan, and Rest of Asia Pacific.",
+      "predicted_answer": "I don't know based on the provided documents.",
+      "retrieval_accuracy": 0.0,
+      "exact_match": 0.0,
+      "token_overlap": 0.0
+    },
+    {
+      "id": "q3",
+      "question": "What were the main risk factors Apple cited related to its supply chain?",
+      "reference_answer": "Apple cited risks including dependence on single-source suppliers, concentration of manufacturing in Asia (particularly China), exposure to geopolitical tensions, and potential disruptions from natural disasters or political instability affecting its supply chain.",
+      "predicted_answer": "The main risk factors Apple cited related to its supply chain include:\n\n1. **Credit Risk**: The Company is exposed to credit risk on its trade accounts receivable, vendor non-trade receivables, and prepayments related to long-term supply agreements. This risk is heightened during periods of economic downturn.\n\n2. **Concentration of Trade Receivables**: A substantial majority of the Company\u2019s outstanding trade receivables are not covered by collateral or credit insurance, and a significant portion can be concentrated within cellular network carriers or other resellers.\n\n3. **International Market Risks**: The Company\u2019s exposure to credit and collectibility risk on its trade receivables is higher in certain international markets.\n\n4. **Vendor Non-Trade Receivables**: The Company has unsecured vendor non-trade receivables concentrated among a few individual vendors, primarily located in Asia.\n\n5. **Long-Term Prepayments**: The Company has made prepayments associated with long-term supply agreements to secure inventory components, which could pose risks if not managed properly.\n\nIf the Company is unable to monitor and limit exposure to these risks, its results of operations, financial condition, and stock price could be materially adversely affected.",
+      "retrieval_accuracy": 1.0,
+      "exact_match": 0.0,
+      "token_overlap": 0.08759124087591241
+    },
+    {
+      "id": "q4",
+      "question": "How did Apple's Services segment revenue change compared to the prior year?",
+      "reference_answer": "Apple's Services segment revenue grew year-over-year, driven by growth in the App Store, Apple Music, Apple TV+, and iCloud subscriptions.",
+      "predicted_answer": "I don't know based on the provided documents.",
+      "retrieval_accuracy": 1.0,
+      "exact_match": 0.0,
+      "token_overlap": 0.038461538461538464
+    },
+    {
+      "id": "q5",
+      "question": "What was Apple's research and development expense in fiscal year 2025?",
+      "reference_answer": "Apple's research and development expense for fiscal year 2025 was $34,550 million.",
+      "predicted_answer": "Apple's research and development expense in fiscal year 2025 was $34,550 million.",
+      "retrieval_accuracy": 1.0,
+      "exact_match": 0.0,
+      "token_overlap": 0.8461538461538461
+    },
+    {
+      "id": "q6",
+      "question": "What legal proceedings or litigation risks did Apple disclose in its 10-K?",
+      "reference_answer": "Apple disclosed various legal proceedings including patent disputes, antitrust investigations in multiple jurisdictions, and regulatory actions related to the App Store and its business practices.",
+      "predicted_answer": "Apple disclosed several legal proceedings and litigation risks in its 10-K, including:\n\n1. **Patent Claims**: The Company faces a significant number of patent claims related to its standards-enabled products, with the potential for new claims arising from emerging technologies like machine learning and artificial intelligence.\n\n2. **Antitrust Investigations**: Apple is subject to antitrust investigations and litigation in various jurisdictions, including civil lawsuits in the U.S. alleging monopolization in the smartphone market and investigations related to App Store terms and conditions.\n\n3. **Compliance with the Digital Markets Act (DMA)**: The Company has made changes to its business practices in response to the DMA, which could be challenged and may result in significant fines and penalties for noncompliance.\n\n4. **Ongoing Legal Proceedings**: Apple is involved in various legal proceedings and claims that have not been fully resolved, including a recent injunction from the California District Court that restricts how the Company can impose fees on purchases made outside of apps.\n\n5. **Potential Financial Impact**: The outcomes of these legal matters could materially adversely affect the Company's business, results of operations, financial condition, and stock price, especially if resolved against the Company for amounts above management's expectations.\n\n6. **Insurance Coverage Limitations**: While the Company maintains insurance coverage for certain claims, it may be insufficient to cover all losses or types of claims that may arise.\n\nOverall, Apple acknowledges that the inherent uncertainty of litigation and government investigations poses significant risks to its operations and financial health.",
+      "retrieval_accuracy": 1.0,
+      "exact_match": 0.0,
+      "token_overlap": 0.1165644171779141
+    },
+    {
+      "id": "q7",
+      "question": "How does Apple describe its approach to environmental sustainability in its 10-K?",
+      "reference_answer": "Apple discusses commitments to carbon neutrality, use of recycled materials in products, renewable energy for its operations, and goals to reduce its overall environmental footprint across its supply chain.",
+      "predicted_answer": "I don't know based on the provided documents.",
+      "retrieval_accuracy": 0.0,
+      "exact_match": 0.0,
+      "token_overlap": 0.0
+    },
+    {
+      "id": "q8",
+      "question": "What does Apple identify as key competition risks in its business?",
+      "reference_answer": "Apple identifies risks from intense competition in all its markets including smartphones, personal computers, tablets, and digital services, noting that competitors may have greater resources or offer lower-priced alternatives.",
+      "predicted_answer": "Apple identifies several key competition risks in its business, including:\n\n1. The inability of developers to keep up with the pace of change, which can lead to applications that do not deliver improved customer experiences and result in dissatisfied customers.\n2. The potential failure to obtain or create appealing digital content, which could adversely impact the company's business and financial condition.\n3. Competition from third-party content providers and distributors, which may limit Apple's access to content or increase costs.\n4. Intense competition for talent in the technology industry, particularly in Silicon Valley, which can lead to increased costs for recruiting and retaining skilled employees.\n5. Evolving workforce dynamics and regulatory requirements that could affect the company's ability to manage its workforce effectively.\n\nThese factors can materially affect Apple's culture, operational flexibility, strategy, and overall business performance.",
+      "retrieval_accuracy": 1.0,
+      "exact_match": 0.0,
+      "token_overlap": 0.11403508771929824
+    },
+    {
+      "id": "q9",
+      "question": "What was Apple's diluted earnings per share for fiscal year 2025?",
+      "reference_answer": "Apple's diluted earnings per share for fiscal year 2025 was $7.46.",
+      "predicted_answer": "Apple's diluted earnings per share for fiscal year 2025 was $7.46.",
+      "retrieval_accuracy": 1.0,
+      "exact_match": 1.0,
+      "token_overlap": 1.0
+    },
+    {
+      "id": "q10",
+      "question": "How did macroeconomic conditions and foreign exchange rates affect Apple's financial results?",
+      "reference_answer": "Apple noted that unfavorable foreign exchange rate movements negatively impacted its net sales when reported in US dollars, and that macroeconomic conditions including inflation and consumer spending uncertainty posed risks to demand for its products.",
+      "predicted_answer": "Apple's financial results were affected by macroeconomic conditions and foreign exchange rates in several ways. The company is exposed to economic risks from fluctuations in interest rates and foreign exchange rates. Specifically, an increase in U.S. interest rates negatively impacts the fair value of Apple's investment portfolio and increases interest expenses on term debt. For example, a hypothetical increase of 100 basis points in interest rates would lead to a decline in the fair value of the investment portfolio by $2,416 million in 2025 and increase annual interest expenses on term debt by $129 million.\n\nAdditionally, Apple is a net receiver of currencies other than the U.S. dollar, meaning that a strengthening U.S. dollar negatively affects the company's net sales and gross margins when expressed in U.S. dollars. The company uses various strategies, including derivative instruments and adjustments to local currency pricing, to manage foreign exchange rate risks. However, they may choose not to hedge certain exposures due to accounting considerations or prohibitive costs. The company estimates a maximum one-day loss in fair value of $590 million from foreign currency derivative positions due to adverse movements in exchange rates, indicating significant potential impacts on financial results from these macroeconomic factors.",
+      "retrieval_accuracy": 1.0,
+      "exact_match": 0.0,
+      "token_overlap": 0.13432835820895522
+    },
+    {
+      "id": "q11",
+      "question": "Why did the US Treasury 10-year yield fall below 4%?",
+      "reference_answer": "The US 10-year Treasury yield fell below 4% as investors turned cautious ahead of key economic data, including the CPI report expected to show headline annual inflation fell to 3.1% in June from 4%, which could influence the Federal Reserve's next interest rate decisions.",
+      "predicted_answer": "I don't know based on the provided documents.",
+      "retrieval_accuracy": 0.0,
+      "exact_match": 0.0,
+      "token_overlap": 0.02127659574468085
+    },
+    {
+      "id": "q12",
+      "question": "What caused US export prices to fall more than expected in June 2023?",
+      "reference_answer": "US export prices dropped 0.9 percent month-over-month in June 2023 due to lower prices for agricultural exports including soybeans, fruit, and nuts, as well as lower nonagricultural industrial supplies and materials prices.",
+      "predicted_answer": "US export prices fell more than expected in June 2023 primarily due to a 1.6 percent decrease in agricultural export prices, which was driven by lower prices for soybeans, fruit, and nuts. This decline in agricultural prices more than offset higher meat prices. Additionally, nonagricultural costs decreased by 0.9 percent, as lower prices for nonagricultural industrial supplies and materials and nonagricultural foods outweighed higher prices for capital goods, consumer goods, and automotive vehicles.",
+      "retrieval_accuracy": 0.0,
+      "exact_match": 0.0,
+      "token_overlap": 0.3793103448275862
+    },
+    {
+      "id": "q13",
+      "question": "What was the probability traders assigned to a Fed rate hike in July based on the Treasury yields article?",
+      "reference_answer": "Traders were assigning a 95% chance of a 25 basis point increase in the fed funds rate at the upcoming July meeting.",
+      "predicted_answer": "I don't know based on the provided documents.",
+      "retrieval_accuracy": 0.0,
+      "exact_match": 0.0,
+      "token_overlap": 0.037037037037037035
+    },
+    {
+      "id": "q14",
+      "question": "Why did Bitcoin climb above $31,000 in mid-July?",
+      "reference_answer": "Bitcoin climbed above $31,000 as signs that US inflation was on a downward trend raised hopes that the Federal Reserve was nearing the end of its monetary policy tightening cycle.",
+      "predicted_answer": "Bitcoin climbed above $31,000 in mid-July due to signs that US inflation is on a downward trend, which raised hopes that the Federal Reserve is nearing the end of its current monetary policy tightening cycle. Additionally, optimism over the creation of spot bitcoin ETFs by major financial firms such as BlackRock also contributed to the price increase.",
+      "retrieval_accuracy": 0.0,
+      "exact_match": 0.0,
+      "token_overlap": 0.49019607843137253
+    },
+    {
+      "id": "q15",
+      "question": "What factors contributed to the weakness in the US dollar index falling below 100?",
+      "reference_answer": "The dollar index fell below 100 due to signs that US inflation was on a downward trend, raising hopes that the Federal Reserve was nearing the end of its monetary policy tightening cycle, which reduced demand for the dollar.",
+      "predicted_answer": "I don't know based on the provided documents.",
+      "retrieval_accuracy": 0.0,
+      "exact_match": 0.0,
+      "token_overlap": 0.05
+    }
+  ]
+}
