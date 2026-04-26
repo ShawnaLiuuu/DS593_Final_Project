@@ -1,0 +1,17 @@
+. . 35
+SCHEDULE 1.1- AUTHORIZED PERSONS SCHEDULE 4.8- . . . . . . . . .
+EXHIBIT A-FORM OF NOTE EXHIBIT B-FORM OF BORROWER'S COUNSEL OPINION
+A6431.A(BF)
+CREDIT AGREEMENT
+This CREDIT AGREEMENT (as amended, supplemented or modified from time to time, this "Agreement") is dated as of February 11, 1994 and is between FEDERAL REALTY INVESTMENT TRUST, a District of Columbia unincorporated business trust (the "Borrower"), and MELLON BANK, N.A., a national banking association (the "Bank").
+The parties hereto agree as follows:
+ARTICLE I
+DEFINITIONS
+Section 1.1. Definitions. The following terms, as used herein, have the following meanings:
+"Adjusted London Interbank Offered Rate" means, for any Interest Period, a rate per annum equal to the quotient obtained (rounded upwards, if necessary, to the next higher 1/100 of 1%) by dividing (i) the applicable London Interbank Offered Rate by (ii) 1.00 minus the applicable Euro-Dollar Reserve Percentage.
+"Advances" has the meaning set forth in Section 2.1.
+"Affiliate" means (i) any Person that directly, or indirectly through one or more intermediaries, controls the Borrower or (ii) any Person (other than the Borrower) that is controlled by or is under common control with such controlling Person (the term "control" meaning the possession, directly or indirectly, of the power to direct or cause the direction of the management
+or policies of a Person, whether through the ownership of voting securities, by contract or otherwise).
+"Authorized Person" means any of the officers of the Borrower identified on Schedule 1.1 or any other officer of the Borrower identified in a borrowing resolution delivered to and accepted by the Bank.
+"Available Amount" means, as of any date, $15,000,000 minus the aggregate unpaid principal amount of Advances outstanding on such date.
+"Business Day" means (i) when used with respect to Advances that bear or are to bear interest at the Prime-Based Rate, any day except a Saturday, Sunday or other day on which commer

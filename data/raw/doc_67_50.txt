@@ -1,0 +1,13 @@
+). The consolidated financial statements include the accounts of United and all of its subsidiaries. All significant intercompany transactions are eliminated. Investments in affiliates are carried on the equity basis.
+(b) Accounting Changes-
+Effective January 1, 1992, United adopted Statement of Financial Accounting Standards ("SFAS") No. 106, "Employers' Accounting for Postretirement Benefits Other Than Pensions" (see Note 11) and SFAS No. 109, "Accounting for Income Taxes" (see Note 5).
+(c) Airline Revenues-
+Passenger fares and cargo revenues are recorded as operating revenues when the transportation is furnished. The value of unused passenger tickets is included in current liabilities.
+(d) Foreign Currency Transactions-
+Monetary assets and liabilities denominated in foreign currencies are converted at exchange rates in effect at the balance sheet date. The resulting foreign exchange gains and losses, and gains and losses on foreign currency call options used to hedge foreign currency obligations, are charged or credited directly to income.
+(e) Cash and Cash Equivalents and Short-term Investments-
+Cash in excess of operating requirements is pooled with funds from UAL and its subsidiary companies and invested in short-term, highly liquid, income-producing investments. Investments with an original maturity of three months or less on their acquisition date are classified as cash and cash equivalents. Cash and cash equivalents and short-term investments are stated at cost, which approximates market value. Due to the short maturity of these instruments, their carrying amount is a reasonable estimate of fair value.
+(f) Aircraft Fuel, Spare Parts and Supplies-
+Aircraft fuel and maintenance and operating supplies are stated at average cost. Flight equipment spare parts are stated at average cost less an obsolescence allowance.
+(g) Operating Property and Equipment-
+Owned operating property and equipment is stated at cost. Property under capital leases, and the related obli

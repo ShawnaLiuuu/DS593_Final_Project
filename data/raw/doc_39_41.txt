@@ -1,0 +1,15 @@
+72,931 253,766 -------- -------- Total capitalization 575,170 550,288 -------- -------- CURRENT LIABILITIES: Notes payable 72,548 47,109 Accounts payable 44,318 40,282 Long-term debt due within one year - 2,138 Taxes accrued 6,757 4,790 Interest accrued 4,438 6,792 Other current and accrued liabilities 10,180 9,387 -------- -------- Total current liabilities 138,241 110,498 -------- -------- DEFERRED INVESTMENT TAX CREDITS 14,567 15,603
+DEFERRED INCOME TAXES 104,300 34,929
+REGULATORY BALANCING ACCOUNTS AND OTHER 16,758 20,516
+COMMITMENTS AND CONTINGENT LIABILITIES (Note 12) - - -------- -------- TOTAL CAPITALIZATION AND LIABILITIES $849,036 $731,834 ======== ======== - ------------------------------------------------------------------------- See Accompanying Notes to Consolidated Financial Statements.
+NORTHWEST NATURAL GAS COMPANY NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - ---------------------------------------------------------------
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES: - ------------------------------------------------
+Organization and Principles of Consolidation - ---------------------------------------------
+The consolidated financial statements include:
+Regulated utility: --Northwest Natural Gas Company (Northwest Natural)
+Non-regulated wholly-owned businesses: --Oregon Natural Gas Development Corporation (Oregon Natural) --NNG Financial Corporation (Financial Corporation) --Pacific Square Corporation (Pacific Square) --NNG Energy Systems, Inc. (Energy Systems)
+Together these businesses are referred to herein as the "Company." Intercompany accounts and transactions have been eliminated.
+Investments in corporate joint ventures and partnerships in which the Company's ownership is 50 percent or less are accounted for by the equity method or the cost method (see Note 11).
+Certain amounts from prior years have been reclassified to conform with the 1993 presentation.
+Industry Regulation - -------------------
+The Company's principal business is the distri

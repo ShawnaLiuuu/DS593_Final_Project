@@ -1,0 +1,11 @@
+rity interest is comprised of the profit of all consolidated subsidiaries located outside the United States.
+NOTE 9 - FAIR VALUE OF FINANCIAL INSTRUMENTS
+The following methods and assumptions were used to estimate the fair value of each class of financial instruments:
+Cash and cash equivalents, Other assets, Liabilities other than long-term debt and deferred income taxes, Forward exchange contracts, and Guarantees of securities. For these items, the carrying amount is a reasonable estimate of fair value.
+Finance receivables - net. Fair value of the outstanding receivables (excluding tax-oriented leases) is estimated by discounting the future cash flows using the Company's current rates for new receivables with similar remaining maturities. Historical experience of bad debts is also factored into the calculation.
+Long-term debt. Fair value is estimated by discounting the future cash flows using the Company's current borrowing rates for similar types and maturities of debt.
+Interest rate swaps and options. Fair value is estimated based upon the amount that the Company would receive or pay to terminate the agreements as of the reporting date.
+The estimated fair values of the Company's financial instruments are as follows:
+Carrying Fair Carrying Fair Amount Value Amount Value Cash and cash equivalents $ 15.6 $ 15.6 $ 11.5 $ 11.5 Finance receivables - net (excluding tax-oriented leases) 2,806.2 2,821.5 2,253.1 2,275.4 Other assets 45.1 45.1 29.5 29.5 Liabilities other than long-term debt and deferred income taxes 1,230.8 1,230.8 988.3 988.3 Long-term debt 1,902.9 1,941.6 1,488.3 1,520.3
+Off-balance-sheet financial instruments: Interest rate swaps/caps/options: In a net receivable position* 2.8 7.9 1.2 2.7 In a net payable position* (7.3) (24.1) (6.6) (22.4) Forward exchange contracts* (1.5) (1.5) .1 .1 Guarantees of securities (173.5) (173.5) (48.1) (48.1)
+*The amounts shown under "Carrying amount" represent accruals or deferred income (fees) arising from these off-balan

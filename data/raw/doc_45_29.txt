@@ -1,0 +1,10 @@
+ Equipment (Note 8) 20,820,473 15,901,857 Accrued Interest Receivable 5,467,174 5,127,718 Intangibles (Note 2) 1,719,491 658,353 Other Assets 9,984,232 9,244,273
+Total Assets $762,334,781 $686,966,261
+LIABILITIES Deposits: Noninterest Bearing Deposits $171,984,693 $147,870,679 Interest Bearing Deposits (Note 9) 490,760,129 449,626,770 Total Deposits 662,744,822 597,497,449
+Federal Funds Purchased and Securities Sold Under Repurchase Agreements 23,264,047 17,561,214 Short-Term Borrowings 1,201,565 1,221,123 Long-Term Debt (Note 10) 1,900,000 2,000,000 Other Liabilities 6,084,592 5,517,780 Total Liabilities 695,195,026 623,797,566
+SHAREHOLDERS' EQUITY Common Stock, $.01 par value; 4,000,000 shares authorized; 3,105,243 issued 31,052 31,052 Surplus 5,856,794 5,857,194 Retained Earnings 67,753,475 61,936,427 73,641,321 67,824,673 Treasury Stock: 255,927 shares in 1993 and 179,016 shares in 1992 at Cost (6,501,566) (4,655,978) Total Shareholders' Equity 67,139,755 63,168,695 Total Liabilities and Shareholders' Equity $762,334,781 $686,966,261
+The accompanying Notes to Financial Statements are an integral part of these statements.
+For the Years Ended December 31, 1993 1992 1991
+Net Income $8,243,711 $8,376,536 $7,272,476 Adjustments to Reconcile Net Income to Cash Provided by Operating Activities: Provision for Loan Losses 960,114 1,215,868 1,816,883 Depreciation 1,881,207 1,862,930 1,732,620 Amortization of Intangible Assets 337,994 259,171 302,915 Deferred Income Taxes 74,585 (143,529) (218,139) Cumulative Effect of Accounting Change 484,495 - - Net (Increase) Decrease in Interest Receivable (339,456) 68,761 208,180 Net (Increase) Decrease in Other Assets (1,393,182) (231,349) (986,758) Net Increase (Decrease) in Other Liabilities 318,515 (1,183,076) (151,038) Net Cash from Operating Activities 10,567,983 10,225,312 9,977,139
+Cash Flows from Investing Activities:
+Proceeds from Payments/Maturities of Investment Securities 82,540,933 31,163,153 45,083,468 Purchase of Inve

@@ -1,0 +1,11 @@
+ccurred. SFAS No. 114 recognizes the practical problems of accounting for the operation of an asset the creditor does not possess and, therefore, states that a loan for which foreclosure is probable should continue to be accounted for as a loan. The effect of this provision will require all ISFs, which are currently classified as foreclosed real estate for financial statement purposes (Note 9), to be
+LSB Industries, Inc.
+Notes to Consolidated Financial Statements (continued)
+2. Accounting Policies (continued)
+reclassified as loans for reporting purposes. SFAS No. 114 is effective for financial statements for fiscal years beginning after December 15, 1994.
+Inventories
+Purchased machinery and equipment are carried at specific cost plus duty, freight and other charges, not in excess of net realizable value. All other inventory is priced at the lower of cost or market, with cost being determined using the first-in, first-out (FIFO) basis, except for certain heat pump products with a value of $7,191,000 at December 31, 1993 ($8,357,000 at December 31, 1992), which are priced at the lower of cost or market, with cost being determined using the last-in, first-out (LIFO) basis. The difference between the LIFO basis and current cost is $571,000 at December 31, 1993 ($625,000 at December 31, 1992).
+Foreclosed Real Estate
+Real estate properties acquired through, or in lieu of, loan foreclosure are recorded at the lower of cost or fair value, less estimated costs to sell the underlying property. Costs relating to the improvement of property are capitalized, whereas costs relating to the holding of the property are expensed. Valuations are periodically performed by management, and chargeoffs are reflected by a charge to operations if the carrying value of a property exceeds its estimated fair value.
+Depreciation
+For financial reporting purposes, depreciation, depletion and amortization is primarily computed using the straight-line method over the estimated useful lives of the as

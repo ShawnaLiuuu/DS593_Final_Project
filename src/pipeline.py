@@ -6,6 +6,9 @@ Usage:
     python src/pipeline.py --query "Why did revenue decrease?" --config configs/config.yaml
 """
 
+from dotenv import load_dotenv
+load_dotenv()
+
 import json
 import argparse
 import yaml

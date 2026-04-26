@@ -1,0 +1,13 @@
+turn on plan assets (9) Amortization of unrecognized transition obligation 2 817 Other net amortization and deferral 9
+SFAS No. 106 postretirement cost 8 145 Regulatory deferral (1 963)
+Net postretirement cost $6 182
+The benefits earned to date and funded status of the Company's share of the System plan at December 31, 1993, using a measurement date of September 30 were as follows:
+(Thousands of Dollars)
+Accumulated postretirement benefit obligation: Retirees $35 748 Fully eligible employees 9 030 Other employees 18 378
+Total obligation 63 156 Plan assets at market value in short-term investment fund 1 510
+Accumulated postretirement benefit obligation in excess of plan assets 61 646 Less: Unrecognized cumulative net loss from past experience different from that assumed 3 362 Unrecognized transition obligation, being amortized over 20 years beginning January 1, 1993 53 746
+Postretirement benefit liability at September 30, 1993 4 538 Fourth quarter 1993 contributions and benefit payments 1 960
+Postretirement benefit liability at December 31, 1993 $2 578
+The unfunded accumulated postretirement benefit obligation (APBO) at January 1, 1993, of $56,600,000 (transition obligation) is being amortized prospectively over 20 years as permitted by the standard.
+In determining the APBO at January 1 and December 31, 1993, the discount rates used were 8% and 7.25%, and the rates of increase in future compensation levels were 5.5% and 4.75%, respectively. For measurement purposes, a health care trend rate of 14% for 1993, declining 1% each year thereafter to 7% in the year 2000 and beyond, and plan provisions which limit future medical and life insurance benefits were assumed. Increasing the assumed health care trend rate by 1% in each year would increase the APBO at December 31, 1993, by $4.3 million and the aggregate of the service and interest cost components of net periodic postretirement benefit cost for 1993 by $.4 million.
+Recovery of SFAS No. 106 costs has been authorized f

@@ -1,0 +1,14 @@
+LOANS BY CATEGORY (Dollars in Thousands) As of December 31, 1993 1992 1991 1990 1989
+Commercial, Financial and Agricultural $ 46,963 $57,188 $57,692 $78,279 $78,124 Real Estate - Construction 22,968 19,103 18,714 14,527 17,284 Real Estate - Mortgage 242,741 212,080 208,091 206,600 206,712 Consumer 93,895 89,848 89,529 90,468 89,067
+Total Loans $406,567 $378,219 $374,026 $389,874 $391,187
+The Company's average loan-to-deposit ratio has decreased over the last three years from 67.5% in 1991 to 60.6% in 1993. The reduction in this percentage in 1993 was attributable more to the acquisition of $44 million in deposits than the lack of loan growth.
+Real estate construction and mortgage loans, combined, represented 65.4% of total loans in 1993 versus 61.1% in 1992. See the section entitled "Risk Element Assets" for a discussion concerning loan concentrations.
+Table 6 arrays the Company's total loan portfolio as of December 31, 1993, based upon repricing opportunities. Loans are arrayed as to those which can be repriced in one year or less, over one through five years and over five years. Demand loans and overdrafts are reported in the category of one year or less. As a percent of the total portfolio, loans with a fixed interest rate have declined from 55.2% in 1992 to 46.9% in 1993.
+Table 6
+LOAN REPRICING OPPORTUNITIES (Dollars in Thousands) Repricing Periods
+Over One Over One Year Through Five Or Less Five Years Years Total
+Commercial, Financial and Agricultural $ 36,677 $ 8,990 $ 1,296 $ 46,963 Real Estate 185,355 64,846 15,508 265,709 Consumer 63,063 30,330 502 93,895 Total $285,095 $104,166 $17,306 $406,567
+Loans with Fixed Rates $ 90,917 $ 83,605 $16,109 $190,631 Loans with Floating or Adjustable Rates 194,178 20,561 1,197 215,936
+Total $285,095 $104,166 $17,306 $406,567
+Allowance for Loan Losses
+Management attempts to maintain the allowance for loan losses at a level sufficient to provide for potential losses in the loan portfolio. The allowance for loan losses is es

@@ -1,0 +1,11 @@
+xes is less than the amount produced by applying the federal income statutory tax rate to financial accounting income before income taxes, as set forth below:
+Federal income tax returns through 1989 have been examined and substantially settled.
+In adopting SFAS No. 109, the Company recognized a significant increase in both deferred tax assets and liabilities. At December 31, 1993, the deferred tax assets and liabilities were comprised of the following:
+(Thousands of Dollars) Deferred tax assets: Unamortized investment tax credit $40 455 Unbilled revenue 21 626 Tax interest capitalized 10 750 State tax loss carryback/carryforward 8 790 Contributions in aid of construction 4 588 Other 7 416
+93 625
+Deferred tax liabilities: Book vs. tax plant basis differences, net 507 214 Other 8 437
+515 651
+Total net deferred tax liabilities 422 026 Add portion above included in current assets 1 974
+Total long-term net deferred tax liabilities $424 000
+It is expected that regulatory commissions will allow recovery of the deferred tax liabilities in future years as they are paid, and accordingly, the Company has recorded regulatory assets for an amount equal to the $326 million increase in deferred tax liabilities. Regulatory liabilities were recorded in an amount equal to the $41 million increase in deferred tax assets to reflect the Company's obligation to pass such tax benefits on to its customers as the benefits are realized in cash in future years. Based on the provisions in the standard for recording these regulatory assets and liabilities on the balance sheet, there was no effect on consolidated net income resulting from adoption of the standard.
+Note C - Dividend Restriction: Supplemental indentures relating to most outstanding bonds of the Company contain dividend restrictions under the most restrictive of which $285,914,000 of consolidated retained earnings at December 31, 1993, is not available for cash dividends on common stock, except that a portion thereof may be paid as

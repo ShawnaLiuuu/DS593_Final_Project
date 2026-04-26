@@ -1,0 +1,14 @@
+ncome was comprised of the following components:
+1993 1992 1991 Currently Payable: Federal $2,846,900 $2,903,663 $2,411,439 State 387,129 404,207 286,231 Deferred: Federal 59,198 (129,880) (186,756) State 15,387 (13,649) (31,383) Total $3,308,614 $3,164,341 $2,479,531
+The net deferred tax asset and liability and the temporary differences comprising those balances at December 31, 1993, are detailed below:
+Deferred Tax Assets: Allowance for Loan Losses $2,857,660 Deferred Loan Fees 313,883 Writedown of Real Estate Held for Sale 22,495 Other 72,369 Total Deferred Tax Assets $3,266,407
+Deferred Tax Liabilities: Premises and Equipment 839,327 Employee Benefits 235,616 Other 30,039 Total Deferred Tax Liabilities 1,104,982 Net Deferred Tax Assets $2,161,425
+Income taxes amounted to less than the tax expense computed by applying the statutory federal income tax rates to income. The reasons for these differences are as follows:
+1993 1992 1991
+Computed Tax Expense $4,092,519 $3,923,898 $3,315,682 Increases (Decreases) Resulting From: Tax-Exempt Interest Income (1,087,346) (1,001,370) (1,015,315) State Income Taxes, Net of Federal Income Tax Benefits 265,660 257,768 168,200 Other 37,781 (15,955) 10,964 Actual Tax Expense $3,308,614 $3,164,341 $2,479,531
+The items that caused timing differences and the resulting deferred income taxes for 1992 and 1991, are as follows: 1992 1991
+Asset Writedowns $(137,520) $ - Provision for Loan Losses 30,736 (51,916) Deferred Loan Fees (21,088) 12,297 Pension Expense 178,259 (205,883) Depreciation (75,646) 26,990 Other (118,270) 373 Total $(143,529) $(218,139)
+Note 12
+EMPLOYEE BENEFITS
+The Company sponsors a noncontributory pension plan covering substantially all of its employees. Benefits under this plan generally are based on the employee's years of service and compensation during the years immediately preceding retirement. The Company's general funding policy is to contribute amounts deductible for federal income tax purposes.
+The following 

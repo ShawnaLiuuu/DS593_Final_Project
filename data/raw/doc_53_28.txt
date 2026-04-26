@@ -1,0 +1,22 @@
+xtent they are temporary, are recorded as deferred tax assets and liabilities under SFAS 109 and consisted of the following components at December 31:
+1993 1992
+U.S. federal, U.S. state, and foreign taxes: Deferred tax assets: Minimum tax credit carryforwards $ 22.0 $ 24.7
+General business credit carryforwards - .2
+22.0 24.9
+Deferred tax liabilities - primarily capital assets (35.0) (37.6)
+Valuation allowance for deferred tax assets - -
+Deferred taxes - net $(13.0) $(12.7)
+No valuation allowance for the Company's deferred tax assets was necessary at December 31, 1993. The Company's tax credit carryforwards may be carried forward indefinitely.
+For 1991 under APB 11, the tax effect of timing differences, net of alternative minimum tax, represented deferred income tax provision reported in the financial statements because the following items were recognized in the results of operations in different years than in the tax returns:
+U.S. federal, U.S. state, and foreign taxes: Finance lease income and depreciation $ 1.5 Provision for credit losses - Other - net .4
+Deferred tax provision $ 1.9
+The provision for income taxes was different than would result from applying the U.S. statutory rate to income before income taxes and minority interest for the reasons set forth in the following reconciliation:
+1993 1992
+Taxes computed at U.S. statutory rates $20.4 $17.5 $14.6 Increases (decreases) in taxes resulting from: Finance income not subject to federal taxation (2.5) (2.7) (2.6) State income taxes - net of federal taxes 1.8 2.0 1.8 Subsidiaries' results subject to tax
+rates other than U.S. statutory rates .9 .8 .6 Change in U.S. federal tax rate .9 - - Other, net (.2) - -
+Provision for income taxes $21.3 $17.6 $14.4
+The domestic and foreign components of income before income taxes and minority interest of consolidated companies were as follows:
+1993 1992
+Domestic $54.4 $51.0 $38.4 Foreign 4.0 .6 4.5
+Total $58.4 $51.6 $42.9
+The foreign component of income before taxes and mino

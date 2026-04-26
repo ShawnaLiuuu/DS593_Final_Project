@@ -1,0 +1,14 @@
+r value due to the overnight maturities of these financial instruments.
+Securities sold under agreements to repurchase--The fair value of securities sold under agreements to repurchase was determined by discounting the cash flows associated with these instruments using an appropriate discount rate. Market rates for financial instruments with similar characteristics to the financial instrument being valued were used as the discount rate. Market rates were based on an average of quotes obtained from several securities dealers. In the case of dollar roll repurchase agreements which are unique instruments with no quoted market rates, market values were estimated using an equivalent maturity repurchase agreement market rate.
+The carrying amounts and fair values of federal funds purchased and securities sold under repurchase agreements consisted of the following at December 31, 1993 and 1992:
+Other borrowed funds, short term
+The master demand notes of the Corporation and the Treasury tax and loan balances reprice daily. The carrying amount of these financial instruments approximates fair value. The book value of other short-term borrowings also approximates its fair value.
+FIRST MARYLAND BANCORP AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(CONTINUED)
+Long-term debt
+The fair value of long-term debt was calculated by discounting the cash flows associated with these instruments using appropriate discount rates. Market rates for financial instruments with equivalent credit risk characteristics and equivalent maturities were obtained from investment bankers and used as discount rates in the valuation model.
+The carrying amount and fair values of long-term borrowings consisted of the following at December 31, 1993 and 1992:
+Accrued interest payable
+The carrying amount of accrued interest payable approximates its market value.
+Interest rate swaps agreements, interest rate caps and floors, foreign exchange options contracts and swaptions
+The fair value of interes

@@ -1,0 +1,10 @@
+"Accounting for Income Taxes." This Statement supersedes existing accounting standards for income taxes which the Company adopted in 1988 (see Note 6).
+FOREIGN CURRENCY TRANSLATION
+Assets and liabilities of subsidiaries are translated at the rate of exchange in effect as of the balance sheet date; income and expenses are translated at the average rates of exchange prevailing during the year. The related translation adjustments are reflected in the cumulative foreign currency translation adjustment section of the consolidated balance sheet.
+NET INCOME PER SHARE
+The computation of earnings per common and common equivalent share is based upon the weighted average number of common shares outstanding during each period plus (in periods in which they have a dilutive effect) the effect of common shares contingently issuable.
+The weighted average number of common shares and equivalents outstanding was 19.8 million, 19.2 million and 18.7 million, respectively, in 1993, 1992 and 1991. There were no dilutive common share equivalents outstanding in any years presented.
+CONCENTRATIONS OF CREDIT RISK
+Financial instruments that potentially subject the Company to concentrations of credit risk consist principally of cash and cash equivalents, investments and trade receivables. The Company places its cash and cash equivalents and investments with high-credit-quality financial institutions and limits the amount of credit exposure by any one financial institution. At times temporary cash investments may be in excess of the Federal Deposit Insurance Corporation insurance limit. The Company's trade receivables are derived from sales to customers. Management believes that any risk of loss is significantly reduced by its ongoing credit evaluations of its customers' financial condition and its requirement of collateral, such as letters of credit and bank guarantees, whenever deemed necessary.
+ENVIRONMENTAL EXPENDITURES
+All material environmental remediation liabilities which are probable an

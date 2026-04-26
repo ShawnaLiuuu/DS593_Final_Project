@@ -1,0 +1,11 @@
+.
+Investment Securities
+Securities are carried at cost, adjusted for amortization of premiums and accretion of discounts. Gains and losses on securities are accounted for by the specific identification method.
+The investment portfolio is a by-product of the Company's operations and, as such, it functions as a key component of liquidity and asset/liability management. It is not management's intent nor practice to participate in the trading of investment securities. Sales of securities are minimal and the gains or losses recognized from such sales are not material to the Company's financial performance.
+On January 1, 1994, the Company adopted Statement of Financial Accounting Standards No. 115 ("Accounting for Certain Investments in Debt and Equity Securities") and management transferred approximately 30% of the Company's portfolio to the "Available for Sale" category. Securities transferred to the "Available for Sale" category on the date the statement was adopted are as follows: Amortized Category Costs
+U. S. Treasuries $31,364,293 U. S. Government Agencies and Corporations 10,089,014 State and Political Subdivisions 20,853,825 Other Securities 500,000
+Total Available for Sale $62,807,132
+Securities in this category are recorded at fair value with unrealized gains and losses, net of deferred taxes, reported as a separate component of equity capital. Fluctuations in the net unrealized gain or loss will not impact the Company's earnings.
+Loans
+Loans are stated at the principal amount outstanding. Interest income on certain loans, which are made on the discount basis, is recognized using the sum-of-the- months-digits method which does not differ materially from the interest method. Interest income on all other loans, except for those designated as non-accrual
+loans, is accrued based on the outstanding daily balances. Under FASB Statement No. 91, fees charged to originate loans and loan origination costs are to be deferred and amortized over the life of the loan. Manage

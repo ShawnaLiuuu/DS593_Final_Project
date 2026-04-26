@@ -1,0 +1,17 @@
+ith the same remaining maturities.
+Working capital financing receivables: The carrying amount approximates fair value due to the short maturity of most of these instruments.
+Due and deferred from receivable sales: The carrying amount approximates fair value.
+Short-term debt: For the majority of these instruments, the carrying amount approximates fair value due to their short maturity.
+Long-term debt and current maturities of long-term debt: The fair value of these instruments is based on replacement cost or quoted market prices for the same issues. Replacement cost is the cost to issue a similar instrument with similar maturity and credit risk.
+Interest rate swaps and currency exchange agreements: The fair value of these instruments has been estimated as the amount the Company would receive or pay to terminate the agreements, taking into consideration current interest and currency exchange rates.
+Financial guarantees: The fair value of financial guarantees is estimated as the amount that would be paid if the Company had to settle the obligation.
+The estimated fair values of the Company's financial instruments are summarized as follows:
+At December 31, 1993 (Dollars in thousands) Carrying Estimated Amount Fair Value __________ __________ Financial assets:
+Cash and cash equivalents $ 609,891 $ 609,891 Loans receivable $1,037,864 $1,122,139 Working capital financing receivables $1,425,781 $1,425,781 Due and deferred from receivable sales $ 245,892 $ 245,892
+Financial liabilities:
+Short-term debt (excluding current maturities of long-term debt) $2,828,037 $2,828,594 Long-term debt and current maturities of long-term debt $3,679,483 $3,665,268
+Off-balance-sheet instruments:
+Interest rate swaps and currency exchange agreements - $ 54,400 Financial guarantees - $ 18,382
+DISCLOSURES ABOUT FAIR VALUE OF FINANCIAL INSTRUMENTS:(cont.)
+At December 31, 1992 (Dollars in thousands) Carrying Estimated Amount Fair Value __________ __________ Financial assets:
+Cash and cash equivalen

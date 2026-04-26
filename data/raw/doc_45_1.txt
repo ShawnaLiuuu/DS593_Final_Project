@@ -1,0 +1,10 @@
+65 Book Value 23.56 21.59 19.55 17.89 16.76
+Based on Net Income: Return on Average Assets Before Accounting Change 1.21% 1.27% 1.15% 1.05% 1.18% Return on Average Assets 1.14 1.27 1.15 1.05 1.18 Return on Average Equity Before Accounting Change 13.15 13.71 13.07 12.25 14.48 Return on Average Equity 12.43 13.71 13.07 12.25 14.48 Dividend Payout Ratio 29.44 27.25 29.65 31.50 27.72
+Averages for the Year: Loans, Net of Unearned Interest $381,807 $358,876 $368,555 $378,405 $379,939 Earning Assets 651,042 598,127 571,165 561,741 550,638 Assets 722,286 662,150 633,963 624,732 614,335 Deposits 630,324 573,162 546,291 537,774 527,524 Long-Term Debt 1,381 3,156 5,555 5,703 7,368 Shareholders' Equity 66,328 61,078 55,635 53,791 49,949
+Year-End Balances: Loans, Net of Unearned Interest $399,424 $369,911 $364,773 $380,127 $380,828 Earning Assets 675,273 619,929 568,720 555,237 556,782 Assets 762,335 686,966 639,540 643,968 626,047 Deposits 662,745 597,497 555,092 550,336 536,950 Long-Term Debt 1,900 2,000 4,000 6,225 6,000 Shareholders' Equity 67,140 63,169 57,723 53,444 51,956 Equity to Assets Ratio 8.81% 9.20% 9.03% 8.30% 8.30%
+Other Data: Average Shares Outstanding 2,924,022 2,932,123 2,958,920 3,049,992 3,103,535 Shareholders of Record* 754 748 731 727 734 Banking Locations* 30 27 27 26 26 Full-Time Equivalent Employees* 476 466 469 489 478
+*As of March 1st of the following year.
+Item 7.
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations
+Financial Review
+This section provides supplemental information which should be read in conjunction with the consolidated financial statements and related notes. The Financial Review is divided into three subsections entitled Earnings Analysis, Financial Condition, and Liquidity and Capital Resources. Information therein should facilitate a better understanding of the major factors and trends which affect the Company's earnings performance and financial condition, and how the Company's performance d

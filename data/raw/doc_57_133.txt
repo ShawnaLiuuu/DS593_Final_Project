@@ -1,0 +1,13 @@
+ipal and interest payments are current and full payment of principal and interest is expected.
+Real Estate and Other Assets Acquired in Settlement of Loans
+Real estate and other assets acquired in settlement of loans is recorded at the lower of the recorded investment in the loan or fair value minus estimated costs to sell. The lower of the recorded investment in the loan or fair value less estimated costs to sell becomes the new cost basis for REO. Any excess of the recorded investment over the fair value less estimated costs to sell is charged off. Subsequent valuations of REO are at the lower of the new cost basis or fair value less estimated costs to sell.
+Premises and Equipment
+Premises and equipment are stated at cost, less accumulated depreciation and amortization. Depreciation is computed using the straight-line method over the estimated useful lives of the assets. Leasehold improvements are amortized over the respective lease terms or the estimated useful life, whichever is shorter.
+Interest Rate Swap Agreements
+Northeast Savings is a party to interest rate swap agreements in managing its interest rate exposure. The net amounts received or paid in accordance with the interest rate swap agreements are charged or credited to interest expense on other borrowings. Generally, gains and losses on terminated interest rate swap agreements are amortized over the lesser of the remaining terms of the agreements or the remaining lives of the assets or liabilities hedged.
+Pension Plan
+Pension costs are funded on a current basis in compliance with the requirements of the Employee Retirement Income Security Act and are accounted for in accordance with Statement of Financial Accounting Standards No. 87, "Employers' Accounting for Pensions."
+NORTHEAST FEDERAL CORP.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS--(CONTINUED)
+Retirement Benefits Other Than Pensions
+SFAS 106, "Employers' Accounting for Postretirement Benefits Other Than Pensions," focuses principally on postre

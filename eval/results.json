@@ -1,0 +1,36 @@
+{
+  "summary": {
+    "n": 3,
+    "avg_retrieval_accuracy": 0.0,
+    "avg_token_overlap": 0.0
+  },
+  "results": [
+    {
+      "id": "q1",
+      "question": "Why did revenue decrease this quarter?",
+      "reference_answer": "FILL IN FROM DOCUMENT",
+      "predicted_answer": "I don't know based on the provided documents.",
+      "retrieval_accuracy": 0.0,
+      "exact_match": 0.0,
+      "token_overlap": 0.0
+    },
+    {
+      "id": "q2",
+      "question": "What are the company's primary risk factors?",
+      "reference_answer": "FILL IN FROM DOCUMENT",
+      "predicted_answer": "I don't know based on the provided documents.",
+      "retrieval_accuracy": 0.0,
+      "exact_match": 0.0,
+      "token_overlap": 0.0
+    },
+    {
+      "id": "q3",
+      "question": "How did operating expenses change year over year?",
+      "reference_answer": "FILL IN FROM DOCUMENT",
+      "predicted_answer": "I don't know based on the provided documents.",
+      "retrieval_accuracy": 0.0,
+      "exact_match": 0.0,
+      "token_overlap": 0.0
+    }
+  ]
+}

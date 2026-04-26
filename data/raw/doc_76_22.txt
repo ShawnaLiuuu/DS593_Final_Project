@@ -1,0 +1,10 @@
+ned using the last-in, first-out (LIFO) method. The valuation of inventories not on LIFO, principally foreign inventories and inventories of consolidated joint venture companies, is determined using either the first-in, first-out (FIFO) or average cost method.
+Property, Plant and Equipment - -----------------------------
+Fixed assets are depreciated over the estimated service life. Most assets are depreciated on a straight-line basis. Certain assets with service lives of more than 10 years are depreciated on accelerated methods. Accelerated depreciation methods are also used for tax purposes, wherever permitted. Due to the large number of asset classes, it is not practicable to state the rates used in computing the provisions for depreciation. Maintenance and repairs are expensed as incurred. Betterments are capitalized.
+Intangibles - -----------
+The difference between purchase price and fair values at date of acquisition of net assets of businesses acquired is amortized on a straight-line basis over the estimated periods benefited, not exceeding 40 years.
+Note A - Summary of Significant Accounting Policies (Continued) - --------------------------------------------------- ---------------------------
+Postretirement Benefits - -----------------------
+Effective November 1, 1991, postretirement benefits other than pensions are accounted for in accordance with Statement of Financial Accounting Standards No. 106, Employers' Accounting for Postretirement Benefits Other than Pensions (SFAS 106). Under SFAS 106, the Company accrues the estimated cost of these benefits during the employees' active service period. The Company previously expensed the cost of these benefits as claims and premiums were paid. See Note M for additional information.
+Income Taxes - ------------
+Effective November 1, 1991, income taxes are accounted for in accordance with Statement of Financial Accounting Standards No. 109, Accounting for Income Taxes (SFAS 109). Under SFAS 109, the Company accounts f

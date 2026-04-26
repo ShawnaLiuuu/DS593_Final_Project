@@ -1,0 +1,11 @@
+ned funded status.
+(Dollars in Thousands) 1993 Accumulated postretirement benefit obligation ($3,873)
+Plan assets at fair value -
+Accumulated postretirement benefit --------- obligation in excess of plan assets ($3,873)
+Unrecognized net gain from past experience different from that assumed and from changes in assumptions 323
+Unrecognized transition obligation 3,048 -------- Accrued postretirement benefit cost $(502) ======== The Company's postretirement health and life insurance plans are unfunded; there are no assets for either plan and the accumulated postretirement benefit obligation for health insurance is $3,371,961 and for life insurance is $501,110.
+Net periodic postretirement benefit cost for fiscal 1993 included the following components;
+(Dollars in Thousands) 1993 Service cost-benefits attributed to service during the period $155 Interest cost on accumulated postretirement benefit obligation 269 Amortization of transition obligation over 20 years 160 ------ Net periodic postretirement benefit cost $584 ======
+The weighted average discount rate used in determining the accumulated postretirement benefit obligation is 7.5%. A 15% annual rate of increase in the per capita cost of covered health care benefits is assumed for 1993. The health care cost trend rate is assumed to decrease annually through the year 2002 to an ultimate rate of 6%. Increasing the assumed health care cost trend rates by 1% would increase the accumulated postretirement benefit obligation as of December 31, 1993, by $300,000.
+(10) Commitments and Contingencies
+The Company is a party in or may be affected by various matters under litigation. The Company expects that some of its operating subsidiaries, in order to comply with the requirements of the Safe Drinking Water Act, may have to invest in significant improvements or additions including, but not limited to, the construction of treatment plants and the modification or replacement of open reservoirs. Management believes that the ultimat

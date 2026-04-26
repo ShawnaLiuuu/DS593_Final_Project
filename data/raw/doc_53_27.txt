@@ -1,0 +1,10 @@
+ the Company was also contingently liable under guarantees of securities of certain Caterpillar dealers totaling $249.6 million of which $173.5 million was outstanding. These guarantees have terms ranging up to two years. At December 31, 1992, the Company was contingently liable for $48.1 million. No loss is anticipated under these guarantees.
+NOTE 8 - INCOME TAXES
+Effective January 1, 1992, the Company adopted SFAS 109, "Accounting for Income Taxes." Prior years' financial statements have not been restated. For years prior to 1992, income taxes were computed based on Accounting Principles Board Opinion (APB) 11. Net deferred tax liabilities as of January 1, 1992, were reduced by $2.6 million as a result of the adoption of SFAS 109. The 1992 tax provision was not materially different from the amount which would have resulted from applying APB 11.
+The components of the provision for income taxes were as follows for the years ended December 31:
+1993 1992
+Current tax provision (credit): U.S. federal taxes $17.4 $13.6 $ 9.4 Foreign taxes 2.9 4.8 1.6 U.S. state taxes 2.5 2.8 1.5 22.8 21.2 12.5
+Deferred tax provision (credit): U.S. federal taxes (1.2) (.1) - Foreign taxes (.6) (3.8) .7 U.S. state taxes .3 .3 1.2 (1.5) (3.6) 1.9 Total provision for income taxes $21.3 $17.6 $14.4
+Current tax provision (credit) is the amount of income taxes reported or expected to be reported on the Company's tax returns. Income taxes paid in 1993, 1992, and 1991 totaled $14.8 million, $2.2 million, and $14.8 million, respectively.
+In August 1993, the U.S. federal income tax rate for corporations was increased from 34% to 35% effective January 1, 1993. As a result of the rate increase, net U.S. deferred tax liabilities and the 1993 provision for income taxes were increased $0.9 million.
+Differences between accounting rules and tax laws cause differences between the bases of certain assets and liabilities for financial reporting and tax purposes. The tax effects of these differences, to the e

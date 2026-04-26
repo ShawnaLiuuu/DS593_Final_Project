@@ -1,0 +1,21 @@
+llion; 1998, $27.4 million; 1999 and thereafter, $41.1 million.
+At December 31, 1993, equipment under operating leases of $30.4 million are assigned as collateral to senior long-term debt. Equipment under operating leases of $15.3 million at December 31, 1993, relate to commercial aircraft leased by the Company under capital lease obligations.
+Under an operating lease agreement, the Company leases four MD-82 aircraft to MDC. The leases require quarterly rent payments of $2.1 million through May 31, 2002. At December 31, 1993 and 1992, the carrying amount of these aircraft was $60.4 million and $64.6 million.
+Note 6 - Income Taxes
+The components of the provision (benefit) for taxes on income from continuing operations before cumulative effect of accounting change are as follows:
+(Dollars in millions) 1993 1992 1991 Current: Federal $ 19.8 $ 48.1 $ 100.2 State 2.4 3.4 2.7
+22.2 51.5 102.9
+Deferred:
+Federal 1.0 (36.6) (82.7)
+Foreign 0.8 1.0 (1.1)
+1.8 (35.6) (83.8)
+$ 24.0 $ 15.9 $ 19.1
+Temporary differences represent the cumulative taxable or deductible amounts recorded in the financial statements in different years than recognized in the tax returns. The components of the net deferred income tax liability consist of the following at December 31:
+(Dollars in millions) 1993 1992 Deferred tax assets: Allowance for losses $ 11.9 $ 12.8
+Other 20.0 2.6
+31.9 15.4
+Deferred tax liabilities: Leased assets (311.6) (291.9) Deferred installment sales (2.8) (3.4) MD Bank - (3.7) Other (16.4) (13.5)
+(330.8) (312.5)
+Net deferred tax liability $ (298.9) $ (297.1)
+Income taxes computed at the United States federal income tax rate and the provision for taxes on income from continuing operations before cumulative effect of accounting change differ as follows:
+(Dollars in millions) 1993 1992 1991 Tax computed at federal $ 14.3 $ 16.3 $ 19.4 statutory rate State income taxes, net of 1.5 1.3 1.8 federal tax benefit Effect of foreign tax rates 0.1 0.8 - U.S. tax effect on foreign 0.8 (2.1) - i

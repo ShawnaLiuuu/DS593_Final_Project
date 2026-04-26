@@ -1,0 +1,10 @@
+table details the components of pension expense, the funded status of the plan and amounts recognized in the Company's consolidated statements of condition, and major assumptions used to determine these amounts.
+1993 1992 1991 Components of Pension Expense: Service Cost $685,449 $674,980 $ 530,645 Interest Cost 845,301 763,211 742,002 Actual Return on Plan Assets (525,422) (363,931) (1,568,273) Net Amortization and Deferral (330,861) (492,809) 915,451 Total $674,467 $581,451 $ 619,825
+Actuarial Present Value of Projected Benefit Obligations:
+Accumulated Benefit Obligations:
+Vested $6,896,007 $5,833,309 $4,022,661 Nonvested 1,066,503 935,972 487,853 $7,962,510 $6,769,281 $4,510,514 Plan Assets at Fair Value (primarily listed stocks and bonds, U.S. Government secur- ities and interest bearing deposits) $10,898,324 $10,144,450 $9,105,747 Projected Benefit Obligation (11,824,763) (10,616,298) (9,311,574) Plan Assets in Excess of: Projected Benefit Obligation (926,439) (471,848) (205,827) Unrecognized Net Loss 3,465,697 2,926,291 2,421,063 Unrecognized Net Asset (1,884,324) (2,120,407) (2,356,490) Prepaid (Accrued) Pension Cost $ 654,934 $ 334,036 $ (141,254) Major Assumptions: Discount Rate 7.5% 8.0% 9.0% Rate of Increase in Compensation Levels 5.5% 6.0% 6.0% Expected Long-Term Rate of Return on Plan Assets 7.5% 8.5% 9.0%
+The Company has a stock incentive plan under which shares of the Company's stock are issued as incentive awards to selected participants. The cost of this plan in 1993 was $354,000.
+Note 13
+RELATED PARTY TRANSACTIONS
+The Chairman of the Board of Capital City Bank Group, Inc., is chairman of the law firm which serves as general counsel to the Company and its subsidiaries. Fees paid by the Company and its subsidiaries for these services, in aggregate, approximated $266,000, $286,000, and $285,900 during 1993, 1992 and 1991, respectively.
+Under a lease agreement expiring in 2024, a bank subsidiary leases land from a partnership in which several directors 

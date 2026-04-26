@@ -1,0 +1,10 @@
+follows: (i) held-to-maturity securities will be accounted for using amortized book value similar to current standards; (ii) changes in the unrealized gain or loss on securities in the available-for-sale category will be reflected as an adjustment to stockholders' equity; (iii) unrealized gains or losses on trading securities will flow through the consolidated statements of earnings.
+The Company will classify all marketable equity securities as available-for- sale. If Statement 115 had been adopted on December 31, 1993, marketable equity securities and stockholders' equity would have been increased by $11,029.
+(j) Warranty Reserve ----------------
+The Company provides a warranty reserve for estimated future costs of servicing products under warranty agreements. Anticipated costs for product warranty are based upon estimates derived from experience factors and are recorded at the time of sale or over the contract period for long-term contracts.
+(k) Earnings Per Common and Common Equivalent Shares ------------------------------------------------
+Earnings per common and common equivalent shares have been computed based on the weighted average number of shares outstanding during the year, after giving effect, if necessary, to the assumption that all dilutive stock options were exercised at the beginning of the year or date of grant with the proceeds therefrom being used to acquire treasury shares. Earnings per common and common equivalent shares are based on 8,256,331, 8,780,051, and 8,863,075 shares outstanding for 1993, 1992, and 1991, respectively.
+EVANS & SUTHERLAND COMPUTER CORPORATION AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+(l) Income Taxes ------------
+In February 1992, the Financial Accounting Standards Board issued Statement of Financial Accounting Standards No. 109, Accounting for Income Taxes. Statement 109 requires a change from the deferred method of accounting for income taxes of APB Opinion 11 to the asset and liability method of accou

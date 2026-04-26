@@ -1,0 +1,11 @@
+23,200 -------- -------- -------- Total operating expenses 14,168 13,635 38,858 -------- -------- --------
+Loss from Operations (3,303) (5,635) (27,194)
+Other Expense and Interest Charges* (374) (1,670) (3,230) -------- -------- -------- Loss Before Income Taxes (3,677) (7,305) (30,424) Income Tax Benefit 2,188 3,682 12,323 -------- -------- -------- Net Loss $ (1,489) $ (3,623) $(18,101) ======== ======== ========
+Balance Sheets as of December 31: Assets: Non-utility property $ 39,435 $ 41,048 $ 47,660 Accumulated depreciation and depletion (18,395) (13,137) (11,044) Investments and other* 34,731 39,781 34,010 Current assets 34,028 16,001 39,955 -------- -------- -------- Total Assets $ 89,799 $ 83,693 $110,581 ======== ======== ========
+Capitalization and Liabilities: Capitalization $ 21,843 $ 24,189 $ 29,005 Current liabilities 42,538 33,940 58,458 Other liabilities 25,418 25,564 23,118 -------- -------- -------- Total Capitalization and Liabilities $ 89,799 $ 83,693 $110,581 ======== ======== ========
+- --------------------------------------------------------------------------------
+*For additional information regarding subsidiary operations, see Notes 3 and 11.
+3. AGRICO COGENERATION CORPORATION: - -------------------------------------
+Agrico is a wholly-owned subsidiary of Energy Systems. In December 1991, Agrico filed with the United States Bankruptcy Court for the Eastern District of California a voluntary petition for reorganization under Chapter 11 of the U.S. Bankruptcy Code. In view of the uncertainty NORTHWEST NATURAL GAS COMPANY NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - ----------------------------------------------------------------
+regarding the financial viability of Agrico, the Company recorded a write-down of $23.2 million (pre-tax) in 1991, resulting in an after-tax charge equivalent to $1.23 per share.
+In 1992, Energy Systems and Northwest Natural entered a settlement agreement with United States National Bank of Oregon (U.S. Bank) with respe

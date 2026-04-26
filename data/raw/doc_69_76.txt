@@ -1,0 +1,18 @@
+-- ---------- ----------
+- ---- Buildings and equipment $112,442 $ 29,672 $ 2,424 $ -- $139,690 Leased under capital leases 45,489 1,899 457 (38,564)(a) 8,367 -------- -------- -------- -------- -------- $157,931 $ 31,571 $ 2,881 $(38,564) $148,057 ======== ======== ======== ======== ======== - ---- Buildings and equipment $ 93,689 $ 24,111 $ 5,358 $ -- $112,442 Leased under capital leases 42,524 3,533 568 -- 45,489 -------- -------- -------- -------- -------- $136,213 $ 27,644 $ 5,926 $ -- $157,931 -------- -------- -------- -------- -------- - ---- Buildings and equipment $ 78,072 $ 23,282 $ 6,496 $ (1,169)(b) $ 93,689 Leased under capital leases 39,671 3,668 668 (147)(b) 42,524 -------- -------- -------- -------- -------- $117,743 $ 26,950 $ 7,164 $ (1,316) $136,213 ======== ======== ======== ======== ========
+(a) Acquisition of AREI/AGP partnership interests.
+(b) Primarily transfers and reclassifications.
+S-3
+SCHEDULE VIII - VALUATION AND QUALIFYING ACCOUNTS AZTAR CORPORATION AND SUBSIDIARIES For the Years Ended December 30, 1993, December 31, 1992 and January 2, 1992 (in thousands)
+COLUMN A COLUMN B COLUMN C COLUMN D COLUMN E - ------------------ ------------ ------------ ------------ ------------
+Balance at Balance at Beginning End of Description of Year Additions Deductions Year - ------------------- ------------ ------------ ---------- ------------
+Allowance for doubtful accounts receivable:
+1993 $ 13,124 $ 1,566(a) $ 4,782(d) $ 9,908
+1992 14,349 2,622(a) 3,847(d) 13,124
+1991 15,126 4,763(a) 5,540(d) 14,349
+Deferred income tax asset valuation allowance:
+1993 $ 24,732 $ 479(b) $ 4,237(e) $ 20,974
+1992 -- 25,562(a)(c) 830(d) 24,732
+(a) Charged to costs or expenses.
+(b) Reflects an adjustment to the deferred income tax asset account for the effect of legislation that increased the federal income tax rate from 34% to 35%.
+(c) Allowance established in 1992 in connection with the adoption of Statement of Financial Accounting Standards No. 109, Accounting for Incom

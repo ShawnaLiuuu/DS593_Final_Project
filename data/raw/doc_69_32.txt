@@ -1,0 +1,11 @@
+r audits.
+We conducted our audits in accordance with generally accepted auditing standards. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement. An audit includes examining, on a test basis, evidence supporting the amounts and disclosures in the financial statements. An audit also includes assessing the accounting principles used and significant estimates made by management, as well as evaluating the overall financial statement presentation. We believe that our audits provide a reasonable basis for our opinion.
+In our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the consolidated financial position of Aztar Corporation and Subsidiaries as of December 30, 1993 and December 31, 1992, and the consolidated results of their operations and their cash flows for each of the three years in the period ended December 30, 1993 in conformity with generally accepted accounting principles.
+As discussed in Note 16 to the consolidated financial statements, the Company changed its method of accounting for income taxes in 1992.
+COOPERS & LYBRAND
+Phoenix, Arizona February 11, 1994
+AZTAR CORPORATION AND SUBSIDIARIES CONSOLIDATED BALANCE SHEETS December 30, 1993 and December 31, 1992 ---------------------------------------- (in thousands, except share data)
+1993 1992 --------- ---------
+Assets Current assets: Cash and cash equivalents $ 39,551 $ 100,403 Accounts and notes receivable, net 19,170 28,601 Refundable income taxes 2,062 2,062 Inventories 5,564 5,144 Prepaid expenses 9,206 8,208 Deferred income taxes 6,566 13,353 --------- --------- Total current assets 82,119 157,771
+Investments in and advances to unconsolidated partnership 13,776 15,225 Other investments 22,131 19,250 Notes receivable -- 246,310
+Property and equipment: Buildings and equipment, net 648,139 287,228 Land 81,795 78,853 Construction in progress 

@@ -1,0 +1,15 @@
+ 2,162 Deferrals under state jurisdictions-net 1,839 1,880 Deferrals under foreign jurisdictions 1,448 1,925 Pension benefits 1,240 1,326 Miscellaneous 384 662 Inventories 775 1,444 Gross deferred tax assets 36,525 32,924
+Valuation allowance for deferred tax assets (1,782) (905)
+Deferred tax liabilities: Property, plant and equipment (10,895) (10,334) Deferrals under foreign jurisdictions (5,701) (6,951) Other assets and miscellaneous (4,111) (3,307) Deferred gain on Wheatley Gaso transactions (748) (909) Gross deferred tax liabilities (21,455) (21,501)
+Net deferred tax asset $13,288 $10,518
+The components of the deferred tax provision (benefit) under APB11 from continuing operations for 1991 are as follows:
+Depreciation and amortization $(1,616) Reserves and accruals (1,061) Deferred gain on Wheatley Gaso transactions (1,090) Deferrals under foreign jurisdictions 1,296 Other-net (120)
+Deferred income tax provision (benefit) $(2,591)
+Earnings before income taxes resulting from non-U.S. operations for 1993, 1992, and 1991 are $10,359, $13,412, and $15,745, respectively.
+As discussed in Note 1, the Company adopted SFAS No. 109 as of January 1, 1992. The cumulative effect of this accounting change for income taxes is not significant and hence, prior years' financial statements have not been restated to apply the provisions of SFAS No. 109.
+The Company and its domestic subsidiaries file a consolidated U.S. federal income tax return. Such returns have been audited and settled through the year 1989.
+The valuation allowance for deferred tax assets increased by $877 in 1993.
+At December 31, 1993, the Company has foreign tax credit carryforwards of $2,589 that will expire at the end of the following years if not otherwise utilized: $174 -1995, $216 - 1996, $354 - 1997, and $1,845 - 1998.
+11. Employee Benefit Plans
+Pension Plans
+The Company has several defined benefit pension plans covering substantially all domestic employees. Plans covering salaried exempt employees provide

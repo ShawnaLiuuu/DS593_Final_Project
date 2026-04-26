@@ -1,0 +1,11 @@
+sion cost $ 251 $ 235 $ 170
+(11) Postretirement Benefits
+United provides certain life insurance and health care benefits for substantially all retired employees. The estimated cost of life insurance benefits is accrued and funded over the years of service of those employees expected to qualify for such benefits. United provides various defined benefit postretirement health care plans which pay stated percentages of most necessary medical expenses incurred by retirees, after subtracting payments by Medicare or other providers and after a stated deductible has been met. United funds this plan as medical claims are paid. Effective January 1, 1992, United adopted SFAS No. 106, "Employers' Accounting for Postretirement Benefits Other Than Pensions". This standard requires that the expected cost of postretirement benefits be charged to expense during the years in which employees render service. Upon adoption, United elected to record the transition obligation of $925 million as a one-time charge against earnings. Prior to 1992, the cost of health care benefits was recognized as expense as claims were paid. The total cost of these postretirement benefits was $33 million in 1991.
+Information on the plans' funded status, on an aggregate basis at December 31, follows (in millions):
+1993 1992 Accumulated postretirement benefit obligation: Retirees $ 416 $ 442 Other fully eligible participants 236 277 Other active participants 679 416
+Total accumulated postretirement benefit obligation 1,331 1,135 Unrecognized net loss (149) (49) Fair value of plan assets (91) (86)
+Accrued postretirement benefit obligation $1,091 $1,000
+Net postretirement benefit costs included the following components (in millions):
+1993 1992 Service cost - benefits attributed to service during the period $ 38 $ 28 Amortization of unrecognized net loss 3 - Interest cost on benefit obligation 92 83
+Net postretirement benefit costs $133 $111
+For the valuation of the accumulated postretirement benefit obligation 
