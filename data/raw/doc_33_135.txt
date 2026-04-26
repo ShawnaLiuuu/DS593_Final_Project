@@ -1,0 +1,10 @@
+s.
+The following methods and assumptions were used by the Company in estimating its fair value of financial instruments:
+Cash and Cash Equivalents: Carrying value approximates fair value.
+Mortgage-Backed Securities and Other Securities Held for Investment: Fair values for investment and mortgage-backed securities are based on quoted market prices where available. Where quoted market prices are not available, fair values are based upon dealer quotes or quoted market prices of comparable instruments. The carrying value of FHLB stock approximates estimated fair value since there is no active market for this stock and the stock can be redeemed for par value which equals carrying value.
+Loans: For variable-rate loans with no significant change in credit risk since loan origination, fair values approximate carrying amounts. Fair values for fixed-rate loans are estimated using discounted cash flow analyses, using interest rates currently being offered for loans with similar terms to borrowers of similar credit quality and for the same remaining maturities. Loans designated by the Company as problem or potential problem loans are reduced by an estimated impairment allowance in consideration of credit quality. Fair values for loans held for sale are based upon quoted market prices.
+Deposits: The fair values of demand deposits, interest-bearing demand deposits and savings accounts are the amount payable on demand. The carrying amount for variable rate certificates of deposit approximates their fair value. Fair values for fixed rate certificates of deposit are estimated using discounted cash flow analyses that apply interest rates currently being offered on certificates to a schedule of aggregated expected monthly maturities on the time deposits.
+LSB Industries, Inc.
+Notes to Consolidated Financial Statements (continued)
+2. Accounting Policies (continued)
+Borrowed Funds: Fair values for fixed rate borrowings are estimated using a discounted cash flow analysis that applies inte

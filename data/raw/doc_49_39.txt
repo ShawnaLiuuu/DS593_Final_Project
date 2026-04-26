@@ -1,0 +1,11 @@
+ items of income and expense.
+-29 (Page 2 of 2)-
+5. Income Taxes (Dollars in millions)
+Income tax expense (benefit) consisted of the following:
+Year ended December 31 1993 1992 1991
+Federal: Current . . . . . . . . . . . . . . . . . . $ 60.0 $ 5.2 $ 14.9 Deferred* . . . . . . . . . . . . . . . . . 54.3 40.4 (81.2) Other: Current . . . . . . . . . . . . . . . . . . 9.3 1.8 2.9 Deferred* . . . . . . . . . . . . . . . . . 29.5 17.1 (16.5) $153.1 $64.5 $(79.9)
+*Deferred taxes: Accrual on baseball and football television contracts. . . . . . . . . . $ 97.3 $62.9 $(91.6) Federal tax audit settlement. . . . . . . . (23.0) (17.9) Federal tax law changes . . . . . . . . . . (11.2) Write-down of marketable securities . . . . 6.6 11.9 1.4 Amortization of intangibles . . . . . . . . (1.3) 13.9 .4 Other state and local taxes . . . . . . . . 7.9 11.9 (11.9) Other, net. . . . . . . . . . . . . . . . . 7.5 (25.2) 4.0 $ 83.8 $57.5 $(97.7)
+Income taxes of $94.2 were paid in 1993. In 1992 and 1991, there were net income tax refunds of $2.6 and $2.4, respectively. In 1991, the Company's loss from continuing operations before income taxes reflected significant provisions for future losses over the remaining lives of its Major League Baseball and National Football League television contracts, as explained in note 3. The tax benefits attributable to these charges were included in deferred taxes and are realized as the transactions provided for become taxable events.
+Reconciliations between the statutory Federal income tax expense (benefit) rate and the Company's effective income tax expense (benefit) rate as a percentage of income (loss) from continuing operations before income taxes were as follows:
+Year ended December 31 1993 1992 1991
+Statutory Federal income tax expense (benefit) rate. . . . . . . . . . . . . . . 35.1% 34.1% (34.1)% Federal tax audit settlement. . . . . . . . (4.8) (7.9) Federal tax law changes . . . . . . . . . . (2.3) Income from tax preference securities . . . (1.9

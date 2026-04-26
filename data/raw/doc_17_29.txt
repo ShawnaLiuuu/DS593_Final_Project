@@ -1,0 +1,16 @@
+ this accounting change for income taxes was not significant.
+Prior to 1992, the provision for income taxes, computed under APB Opinion 11, was based on earnings and expenses included in the accompanying consolidated statements of earnings. Deferred taxes were provided to reflect the tax effects of reporting earnings, expenses, and tax credits in different periods for financial accounting purposes than for income tax purposes.
+The aggregate undistributed earnings of certain foreign subsidiaries which, under existing law, will not be subject to U.S. tax until distributed as dividends was $55,001 on December 31, 1993. Since the earnings have been or are intended to be indefinitely reinvested in foreign operations, no provision has been made for any U.S. taxes that may be applicable thereto. Any taxes paid to foreign governments on those earnings may be used, in whole or in part, as credits against U.S. tax on any dividends distributed from such earnings.
+Net Earnings (Loss) Per Share
+Net earnings (loss) per share of common stock is based upon the weighted average number of shares of common stock outstanding during the year (21,126 in 1993, 21,027 in 1992 and 20,781 in 1991). No effect has been given to options outstanding under the Company's Stock Option Plans since no material dilutive effect would result from the exercise of these items.
+Financial Presentation Changes
+Certain prior year amounts have been reclassified to conform to the current- year presentation.
+2. Inventories
+Inventories are summarized as follows:
+December 31, 1993 1992
+Raw materials $ 31,927 $36,764 Work-in-process 49,062 46,434 Finished goods 55,863 48,800
+Inventories valued at FIFO 136,852 131,998 LIFO allowance (30,667) (29,967)
+$106,185 $102,031
+Inventories of foreign subsidiaries, valued at FIFO or average cost, are $49,252 and $48,774 at December 31, 1993 and 1992, respectively.
+3. Investments, Including Investments in Affiliates
+Investments, including investments in affiliates, are summariz

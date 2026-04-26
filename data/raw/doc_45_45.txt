@@ -1,0 +1,11 @@
+2,549,216
+Income Before Income Taxes and Equity in Undistributed Earnings of Group Banks 3,983,896 4,618,865 5,097,761 Income Tax Expense (Benefit) (229,736) (81,497) (264,098) Income Before Equity in Undistributed Earnings of Group Banks 4,213,632 4,700,362 5,361,859 Equity in Undistributed Earnings of Group Banks 4,030,079 3,676,174 1,910,617 Net Income $8,243,711 $8,376,536 $7,272,476
+The cash flows for the parent company for the three years ended December 31 were as follows:
+Parent Company Statements of Cash Flows
+1993 1992 1991
+Net Income $8,243,711 $8,376,536 $7,272,476 Adjustments to Reconcile Net Income to Cash Provided by Operating Activities: Equity in Earnings of Group Banks (8,705,079) (8,476,174) (7,710,617) Amortization of Excess of Purchase Price Over Book Value of Net Assets Acquired 51,038 56,818 146,745 (Increase) Decrease in Other Assets (187,857) 163,945 (1,702) Net Increase (Decrease) in Other Liabilities 332,613 (54,215) (9,434) Net Cash from Operating Activities (265,574) 66,910 (302,532)
+Cash Flows from Investing Activities: Dividends Received from Group Banks 4,675,000 4,800,000 5,800,000
+Cash Flows from Financing Activities: Addition to Long-Term Debt 1,400,000 - 403,800 Repayment of Long-Term Debt (1,500,000) (2,000,000) (2,628,800) Payment of Dividends (2,282,200) (2,153,230) (2,065,029) Sale (Purchase) of Treasury Stock (1,845,988) (648,000) (834,842) Net Cash from Financing Activities (4,228,188) (4,801,230) (5,124,871) Net Increase (Decrease) in Cash 181,238 65,680 372,597 Cash at Beginning of Period 2,607,749 2,542,069 2,169,472 Cash at End of Period $2,788,987 $ 2,607,749 $2,542,069
+Item 9.
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosures.
+The Board of Directors has appointed Arthur Andersen & Co., independent certified public accountants, as independent auditors for Capital City Bank Group, Inc., and its subsidiaries for the current fiscal year ending December 31, 1994, subject to ratific

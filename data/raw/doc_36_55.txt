@@ -1,0 +1,19 @@
+deferred income tax effects, are accumulated in the marketable securities adjustment component of shareholders' deficit. See Notes 4 and 19.
+SFAS No. 115 superseded SFAS No. 12 under which marketable securities were generally carried at the lower of aggregate market or amortized cost and unrealized net gains were not recognized.
+Realized gains or losses are computed based on specific identification of the securities sold.
+Inventories
+Inventories are stated at the lower of cost (principally average cost) or market. Amounts are removed from inventories at average cost.
+Investment in joint ventures
+Investments in 20% to 50%-owned entities are accounted for by the equity method.
+Intangible assets
+Intangible assets, included in other noncurrent assets, are amortized by the straight-line method over the periods expected to be benefitted.
+Property, equipment, depreciation and depletion
+Property and equipment are stated at cost. Interest costs related to major, long-term capital projects are capitalized as a component of construction costs. Maintenance, repairs and minor renewals are expensed; major improvements are capitalized.
+Depreciation is computed principally by the straight-line method over the estimated useful lives of ten to 40 years for buildings and three to 20 years for machinery and equipment. Depletion of mining properties is computed by the unit-of-production and straight-line methods.
+Employee benefit plans
+Accounting and funding policies for retirement plans and postretirement benefits other than pensions ("OPEB") are described in Note 11.
+Net sales
+Sales are recognized as products are shipped.
+Income taxes
+Deferred income tax assets and liabilities are recognized for the expected future tax consequences of temporary differences between the income tax and financial reporting carrying amounts of assets and liabilities, including investments in subsidiaries and unconsolidated affiliates not included in the Company's U.S. tax group (the "NL Tax Group").
+Loss p

@@ -1,0 +1,12 @@
+jected benefit obligation at December 31, 1993, 1992, and 1991, the discount rates used were 7.25%, 7.75%, and 8%, and the rates of increase in future compensation levels were 4.75%, 5.25%, and 5.5%, respectively. The expected long-term rate of return on assets was 9% in each of the years 1993, 1992, and 1991.
+Note F - Postretirement Benefits Other Than Pensions: The Company adopted SFAS No. 106 as of January 1, 1993, which requires accrual of postretirement benefits other than pensions (principally health care and life insurance) for the employee and covered dependents during the years the employee renders the necessary service to receive such benefits. Prior to 1993, medical expenses and life insurance premiums paid by the Company for retired employees and their dependents were recorded in expense in the period in which they were paid and were $2,390,000 and $2,029,000 in 1992 and 1991, respectively.
+SFAS No. 106 postretirement cost in 1993, a portion of which (about 30%) was charged to plant construction, included the following components:
+(Thousands of Dollars)
+Service cost - benefits earned $ 478 Interest cost on accumulated postretirement benefit obligation 2 819 Actual return on plan assets (5) Amortization of unrecognized transition obligation 1 772 Other net amortization and deferral 5
+SFAS No. 106 postretirement cost 5 069 Regulatory deferral (1 981)
+Net postretirement cost $3 088
+The benefits earned to date and funded status of the Company's share of the System plan at December 31, 1993, using a measurement date of September 30 were as follows:
+(Thousands of Dollars)
+Accumulated postretirement benefit obligation: Retirees $32 469 Fully eligible employees 4 348 Other employees 14 664
+Total obligation 51 481 Plan assets at market value in short-term investment fund 1 230
+Accumulated postretirement benefit obligation in excess of plan assets 50 251 Less: Unrecognized cumulative net loss from past experience different from that assumed 14 161 Unrecognized tra

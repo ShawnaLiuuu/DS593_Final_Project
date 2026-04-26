@@ -1,0 +1,11 @@
+ent expense, $(31) for pension expense, $16 million for other employee benefits and $12 million for prepaid commissions.
+Temporary differences and carryforwards which give rise to a significant portion of deferred tax assets and liabilities for 1993 and 1992 are as follows: 1993 1992 Deferred Deferred Deferred Deferred Tax Tax Tax Tax Assets Liabilities Assets Liabilities (In Millions)
+Employee benefits, including postretirement medical $ 598 $ 31 $ 657 $ 119 Prepaid commissions - 49 - 51 Depreciation, capitalized interest and transfers of tax benefits - 1,105 - 1,013 Gains on sale and leasebacks 480 - 479 - Rent expense 207 - 169 - AMT credit carryforward 202 - 132 - Foreign exchange gains and losses 84 - 102 - Frequent flyer accrual 72 - 72 - Other 295 56 385 200
+$1,938 $1,241 $1,996 $1,383
+United has determined, based on its history of operating earnings, available carrybacks, expectations for the future and potential tax planning strategies, that it is more likely than not that the deferred tax assets at December 31, 1993 will be realized before expiration.
+The significant differences between pretax book losses and taxable losses for the last three years were as follows (in millions):
+1993 1992 1991
+Pretax book loss $ (26) $(602) $(513) Gains on sale and leasebacks 17 304 171 Depreciation, capitalized interest and transfers of tax benefits (370) (278) (218) Rent expense 139 127 93 Pension expense (3) (95) (194) Other employee benefits 47 36 (67) Gains on asset dispositions (41) (3) (110) Other, net 81 9 54 Taxable loss $(156) $(502) $(784)
+At December 31, 1993, United and its subsidiaries had $202 million of federal AMT credit carryforwards available for an indefinite period and $27 million of state tax benefit from net operating loss carryforwards expiring between 1997 and 2009.
+(6) Short-Term Borrowings
+At December 31, 1993, United had outstanding $315 million in short-term borrowings, bearing an average interest rate of 3.34%. Receivables amounting to $367 mi

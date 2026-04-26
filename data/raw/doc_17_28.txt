@@ -1,0 +1,12 @@
+f shareholders' equity.
+For subsidiaries located in highly inflationary economies, balance sheet items are translated using current exchange rates, and average exchange rates are used for statement of earnings items except for inventory, property, and their related statement of earnings accounts, which are translated using historical exchange rates. Resultant translation gains and losses are included in earnings.
+Cash and Cash Equivalents
+Cash and cash equivalents include all cash balances and highly liquid investments with original maturities of three months or less. The carrying values of cash and cash equivalents approximate fair values due to the short maturities of these financial instruments.
+Inventories
+Domestic inventories are stated at the lower of cost or market, with cost generally determined by the last-in, first-out (LIFO) method. Inventories of foreign subsidiaries are stated at the lower of cost or market, with cost being determined by the first-in, first-out (FIFO) method, or average cost method.
+Property, Plant and Equipment
+Property, plant and equipment is stated at cost, less accumulated depreciation. Depreciation is computed using the straight-line method over the estimated useful lives of the assets ranging from 15 to 50 years for buildings and 3 to 12 years for machinery and equipment.
+Income Taxes
+In February 1992, the Financial Accounting Standards Board issued SFAS No. 109, "Accounting for Income Taxes," which requires recognition of deferred tax liabilities and assets for the expected future tax consequences of events that have been included in the financial statements or tax returns. Under this method, deferred tax liabilities and assets are determined based on the
+Page 28 of 54
+difference between the financial statement and tax bases of assets and liabilities using enacted tax rates in effect for the year in which the differences are expected to reverse. Effective January 1, 1992, the Company adopted SFAS No. 109. The cumulative effect of

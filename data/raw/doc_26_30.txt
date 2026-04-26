@@ -1,0 +1,12 @@
+28 -------- Total $43,846 ========
+Total rental expense was $7,107,000 in 1993, $7,314,000 in 1992, and $7,816,000 in 1991.
+Note 4. Income Taxes
+Effective January 1, 1992, the Company changed its method of accounting for income taxes from the deferred method to the liability method required by SFAS No. 109, "Accounting for Income Taxes." As permitted under the new rules, prior years' financial statements have not been restated. The effects of adopting Statement 109 were not material.
+The provision (benefit) for income taxes for the years ended December 31, 1993, 1992 and 1991 consists of the following (in thousands):
+1993 1992 1991 ---------- ---------- --------- Current State $ (61) $ 152 $ (534) Federal (3,180) 1,579 (3,149) Foreign 1,602 (45) 294 ---------- ---------- --------- $(1,639) $1,686 $(3,389) Deferred Federal 2,379 (216) 896 Foreign 76 (156) 243 ---------- ---------- --------- 2,455 (372) 1,139 ---------- ---------- --------- Total $ 816 $1,314 $(2,250) ========== ========== =========
+The foreign provision for income taxes is based upon net foreign pretax losses of $1,079,000, $3,453,000, and $4,548,000 in 1993, 1992, and 1991, respectively.
+The significant components of deferred tax assets and liabilities included on the balance sheet at December 31 are as follows (in thousands):
+1993 1992 ----------- ----------- Revenue recognition differences $ (9,492) $(12,285) Other (1,567) (1,167) ----------- ----------- Gross deferred tax liabilities (11,059) (13,452) ----------- -----------
+Fixed assets 5,613 3,449 Inventory valuation 6,108 3,515 Other accrued expenses 6,274 2,551 Tax credits 7,540 5,395 Foreign loss carryforwards 3,552 4,866 ----------- ----------- Gross deferred tax assets 29,087 19,776
+Asset valuation allowance (19,654) (5,495) ----------- ----------- Net deferred tax asset (liability) $ (1,626) $ 829 =========== ===========
+Deferred income taxes were provided for the timing differences in the recognition of revenue and expenses for tax and f

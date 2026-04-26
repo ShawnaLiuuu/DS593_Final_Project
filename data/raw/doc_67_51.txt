@@ -1,0 +1,12 @@
+gation for future minimum lease payments, are initially recorded at an amount equal to the then present value of those lease payments.
+Depreciation and amortization of owned depreciable assets is based on the straight-line method over their estimated service lives. Leasehold improvements are amortized over the remaining period of the lease or the estimated service life of the related asset, whichever is less. Aircraft are depreciated to estimated salvage values, generally over lives of 10 to 25 years; buildings are depreciated over lives of 25 to 45 years; and other property and equipment are depreciated over lives of three to 15 years.
+Properties under capital leases are amortized on the straight-line method over the life of the lease, or in the case of certain aircraft, over their estimated service lives. Lease terms are 10 to 19 years for aircraft and flight simulators and 25 years to 40 years for buildings. Amortization of capital leases is included in depreciation and amortization expense.
+Gains or losses on dispositions of individual units of owned property and equipment are reflected in earnings. Maintenance and repairs, including the cost of minor replacements, are charged to maintenance expense accounts. Costs of additions to and renewals of units of property are charged to property and equipment accounts.
+(h) Intangibles-
+Intangibles consist primarily of route acquisition costs, slots and intangible pension assets (see Note 10). Route acquisition costs and slots are amortized over 40 years and 5 years, respectively.
+(i) Mileage Plus Awards-
+United accrues the estimated incremental cost of providing free travel awards earned under its Mileage Plus frequent flyer program when such award levels are reached.
+(j) Deferred Gains-
+Gains on aircraft sale and leaseback transactions are deferred and amortized over the lives of the leases as a reduction of rental expense.
+(k) Interest Rate Swap Agreements-
+United enters into interest rate swap agreements to hedge cer

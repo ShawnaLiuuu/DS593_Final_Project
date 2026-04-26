@@ -1,0 +1,12 @@
+1 Payroll and related items 15,139 18,455 Accrued interest payable 11,590 12,934 Customer advance payments 5,168 16,604 Accrued restructuring costs 8,414 - Accrued financing fees 5,000 - Other 19,414 13,954
+$ 88,911 $ 90,137
+Note 6 Unusual Items
+During the twelve months ended December 31, 1993, the Company recognized unusual charges of $17.7 million ($1.05 per share) in loss from continuing operations. During the fourth quarter of 1993, the Company recognized charges of $23.7 million that include provisions of $8.6 million related to the restructuring and consolidation of certain of the Company's operating units (See Note 3), $10.1 million expected net loss overall, based on current conditions, related to the Company's asset divestiture program (See Note 3) and $5.0 million in debt related financing fees associated with obtaining consents from holders of its 12.25% Senior Subordinated Debentures to amend the indenture governing these debentures and obtain waivers from its senior lenders for non-compliance with certain financial covenants as a result of the fourth quarter net loss (See Note 8). These charges are net of unusual income of $6.0 million recorded in the third quarter of 1993 as a result of a change in estimate related to legal costs associated with pending litigation.
+The twelve months ended December 31, 1992 include unusual charges of $24.0 million in loss from continuing operations. These charges are principally provisions for the estimated costs associated with pending litigation and certain warranty and claim settlements.
+Note 7 Income Taxes
+The components of income tax expense (benefit) from continuing operations are:
+Year Ended December 31 (Dollars in thousands) 1993 1992 1991
+Current: Federal $ - $ - $2,543 Foreign - - 1,652 State - - 894 - - 5,089
+Deferred: Federal 14,400 (5,813) 125 Foreign and State 600 (4,513) 747 15,000 (10,326) 872
+$15,000 $(10,326) $5,961
+The $15.0 million deferred income tax expense recorded in 1993 relates to adjustments i

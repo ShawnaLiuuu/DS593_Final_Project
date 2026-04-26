@@ -1,0 +1,22 @@
+ January 1, 1993, have not been restated to apply the provisions of Statement No. 109. The cumulative effect of adopting Statement No. 109 as of January 1, 1993 was to decrease net income for 1993 by $8.6. The adoption of Statement No. 109 had no material effect on pre-tax income.
+As a result of implementing Statement No. 109, the Telephone Company recorded a $431.4 net reduction in its deferred tax liability. The reduction in the deferred tax liability was caused primarily by deferred tax benefits provided for excess deferred taxes (arising from reduced tax rates, which are returned to customers through rates), and unamortized investment tax credits, partially offset by deferred taxes provided for temporary differences previously flowed through the ratepayers. This reduction was substantially offset by the establishment of a net regulatory liability in accordance with Statement No. 71, with minimal effect on net income. The net regulatory liability recognizes the differences between the recording of income taxes for financial reporting purposes and recovery of those taxes through telephone service rates. Amounts comprising the net liability will be amortized over the regulatory lives of the associated assets. Future regulatory proceedings may affect the period in which these amounts are recognized in net income.
+Significant components of deferred tax liabilities and assets as of December 31, 1993 are as follows:
+Depreciation $ 2,893.5
+Employee benefits 116.3
+Other 105.0
+Gross deferred tax liabilities 3,114.8
+Employee benefits 1,091.9
+Unamortized investment tax credits 156.9
+Other 271.7
+Gross deferred tax assets 1,520.5
+Net deferred tax liabilities $ 1,594.3
+The components of income tax expense are as follows:
+1993 1992 1991
+Federal: Current $ 568.9 $ 489.4 $ 472.8
+Deferred - net (139.0) (100.7) (69.5)
+Amortization of investment tax (65.5) (72.0) (86.7) credits
+364.4 316.7 316.6
+State and local: Current 69.6 42.2 34.2
+Deferred - net (24.8) 1.7 (.5)
+44.8 43.9 33.7
+To

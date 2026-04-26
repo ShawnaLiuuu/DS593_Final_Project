@@ -1,0 +1,17 @@
+ or less.
+Inventories
+Inventory costs are determined by the use of the last-in, first-out (LIFO) method on a worldwide basis, and inventories are stated at the lower of such cost or realizable value.
+Facilities
+The Company capitalizes costs, including interest during construction, of fixed asset additions, improvements, and betterments that add to productive capacity or extend the asset life. Maintenance and repair expenditures are charged against income. Significant foreign investment grants are amortized into income over the period of benefit.
+Goodwill
+Goodwill is being amortized over 40 years.
+Debt Issuance Costs
+The costs related to the issuance of debt are amortized using the interest method over the lives of the related debt.
+Warranties
+The Company provides for estimated warranty costs at the time of sale. Warranty obligations beyond one year are included in other long-term liabilities.
+The Company changed its method of accounting for revenues from extended warranty contracts at the beginning of 1991 to conform with the FASB Technical Bulletin, "Accounting for Separately Priced Extended Warranty and Product Maintenance Contracts." The bulletin requires the deferral of the revenue from the sales of such contracts and amortization thereof on a straight-line basis over the terms of the contracts. The cumulative effect of this accounting change for all contracts in place as of December 31, 1990, increased the net loss in 1991 by $7 million, net of income tax benefit. The effect on the 1991 net loss, excluding the cumulative effect upon adoption, was not material.
+AMERICAN STANDARD INC. AND SUBSIDIARIES NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Leases
+The asset values of capitalized leases are included with facilities, and the associated liabilities are included with long-term debt.
+Postretirement Benefits
+Postretirement benefits are provided for substantially all employees of the Company, both in the United States and abroad. In the United States the Company also

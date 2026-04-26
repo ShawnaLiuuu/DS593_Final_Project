@@ -1,0 +1,13 @@
+38.1 (189.9) 318.8 Issuance of other short-term borrowings 16.0 521.4 - Repayment of other short-term borrowings (137.6) (394.8) - Issuance of long-term debt 2,086.1 284.3 397.4 Repayment of long-term debt (10.7) (11.1) (7.8) Early extinguishment of debt and related call premiums (2,190.3) (355.6) (799.5) Dividends paid (865.6) (960.6) (855.4) Equity from parent 100.0 - - Net Cash Used in Financing Activities (964.0) (1,106.3) (946.5) Net increase (decrease) in cash and cash equivalents (7.1) (8.9) 15.4 Cash and cash equivalents beginning of year 44.9 53.8 38.4 Cash and Cash Equivalents End of Year $ 37.8 $ 44.9 $ 53.8
+The accompanying notes are an integral part of the financial statements.
+Southwestern Bell Telephone Company Statements of Shareowner's Equity (Dollars in Millions)
+Retained Common Paid-in Earnings Stock Surplus (Deficit)
+Balance, December 31, 1991 $ 6,469.9 $ - $ 621.2
+Net income - - 964.1 Dividend to shareowner - - (964.1)
+Balance, December 31, 1992 6,469.9 - 621.2
+Net income (loss) - - (987.6) Dividend to shareowner - (862.0) - Equity from parent - 100.0 - Transfer of equity (6,468.9) 6,468.9 -
+Balance, December 31, 1993 $ 1.0 $ 5,706.9 $ (366.4)
+The accompanying notes are an integral part of the financial statements.
+1. Summary of Significant Accounting Policies
+Southwestern Bell Telephone Company (Telephone Company) is a regulated utility which provides telecommunications services to customers in Arkansas, Kansas, Missouri, Oklahoma and Texas. The Telephone Company is a wholly-owned subsidiary of Southwestern Bell Corporation (Corporation).
+Regulatory Accounting The Telephone Company prepares its financial statements in accordance with the provisions of Statement of Financial Accounting Standards No. 71, "Accounting for the Effects of Certain Types of Regulation" (Statement No. 71). The provisions of Statement No. 71 require, among other things, that regulated enterprises reflect rate actions of regulators in their financial statements, when appr

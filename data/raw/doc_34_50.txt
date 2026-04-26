@@ -1,0 +1,12 @@
+proximates fair value.
+Notes Receivable For variable rate notes that reprice frequently and with no significant change in credit risk, fair values are based on carrying values. The fair values of fixed rate notes are estimated using discounted cash flow analyses, using interest rates currently being offered for loans with similar terms to borrowers of similar credit quality.
+Short and Long-Term Debt The carrying amount of the Company's short-term borrowings approximates its fair value. The fair value of the Company's long- term debt is estimated using discounted cash flow analyses, based on the Company's current incremental borrowing rates for similar types of borrowing arrangements.
+Off-Balance Sheet Instruments Fair values for the Company's off-balance sheet instruments (swaps and financing commitments) are based on quoted market prices of comparable instruments (currency and interest rate swaps); and the counterparties' credit standing, taking into account the remaining terms of the agreements (financing commitments).
+The estimated fair values of the Company's financial instruments consist of the following at December 31:
+(Dollars in millions) 1993 1992 Carrying Fair Carrying Fair Asset (Liability) Amount Value Amount Value ASSETS Cash and cash equivalents $ 65.5 $ 65.5 $ 11.6 $ 11.6 Notes receivable 301.8 301.8 459.7 458.2
+LIABILITIES Short-term notes payable (203.3) (203.3) (124.2) (124.2) to banks Long-term debt: Senior, excluding capital (1,014.0) (1,090.3) (1,034.8) (1,055.2) lease obligations Subordinated (80.7) (89.1) (96.1) (99.2)
+OFF BALANCE SHEET INSTRUMENTS Commitments to extend (50.2) (50.2) (16.8) (16.8) credit Foreign currency swaps 20.9 18.5 19.0 13.3
+Interest rate swaps (0.2) (0.7) (0.1) (1.4)
+Note 11 - Segment Information
+The Company provides a diversified range of financing and leasing arrangements to customers and industries throughout the United States, the United Kingdom and, to a lesser extent, other countries.
+The Company's operations inclu

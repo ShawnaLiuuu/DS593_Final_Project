@@ -1,0 +1,13 @@
+est;
+(v) receipt by the Bank of a certificate of an Authorized Person, dated the date of such Advance, certifying that, to the best of the Borrower's knowledge, no Default has occurred and is continuing or would result from such Advance and that the representations and warranties of the Borrower set forth in this Agreement are true and correct on and as of the date of such Advance;
+(vi) receipt by the Bank of such evidence as it may reasonably request confirming that the financial institutions described in Section 6.7(iii) do not have the right to confess judgment against the Borrower;
+(vii) receipt by the Bank of a charge fee in the amount of $37,500; and
+(viii) receipt by the Bank of all documents it may reasonably request relating to the existence of the Borrower and its authority to execute, deliver and perform this Agreement and the Note and the validity of this Agreement and the Note and any other matters relevant hereto or thereto, all in form and substance satisfactory to the Bank and its counsel.
+Section 3.2. Conditions to Each Advance. The obligation of the Bank to make such Advance is subject to the satisfaction of the following conditions:
+(i) the fact that no Default has occurred and is continuing or would result from such Advance;
+(ii) the fact that the representations and warranties of the Borrower set forth in this Agreement are true and correct on and as of the date of such Advance; and
+(iii) the fact that the amount of such Advance does not exceed the Available Amount.
+ARTICLE IV
+REPRESENTATIONS AND WARRANTIES
+The Borrower represents and warrants that:
+Section 4.1. Existence and Power. The Borrower is an unincorporated business trust, validly existing and in good standing under the laws of the District of Columbia, has all powers and all material governmental licenses, authorizations, consents and approvals required to carry on its business as now conducted and is not a "foreign person" within the meaning of sections 1445 and 7701 of the Code. The 

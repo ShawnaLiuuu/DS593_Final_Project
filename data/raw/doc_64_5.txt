@@ -1,0 +1,13 @@
+ork access is either switched, which uses a switched communications path between the carrier and the customer, or special, which uses a direct nonswitched path.
+The following table sets forth for the Telephone Company the percentage of total operating revenues by any class of service which accounted for 10 percent or more of total operating revenues in any of the last three fiscal years.
+Percentage of Total Operating Revenues 1993 1992 1991
+Charges for local service 48% 48% 48%
+Charges to interexchange carriers for network access 26% 26% 25%
+Charges for long- distance (i.e., toll service) 12% 13% 14%
+Major Customer
+See Note 10, "Segment and Major Customer Information", on page 38 of this report.
+Government Regulation
+In the five-state area, the Telephone Company is subject to regulation by state commissions which have the power to regulate intrastate rates and services, including local, toll, private line and network access (both intraLATA and interLATA access within the state) services. The Telephone Company is also subject to the jurisdiction of the Federal Communications Commission (FCC) with respect to foreign and interstate rates and services, including interstate access charges. Access charges are designed to compensate the Telephone Company for the use of its facilities for the origination or termination of long- distance and other communications by non-Telephone Company carriers.
+Additional information relating to federal and state regulation of the Telephone Company is contained in Item 7, Management's Discussion and Analysis of Results of Operations of this report under the heading "Regulatory Environment" beginning on page 17 of this report.
+Principal Markets
+The Telephone Company provides its services along approximately 9 million residential and 4 million business access lines in the five-state area. During 1993, more than half of the Telephone Company's access line growth occurred in Texas. In 1993, 1992 and 1991, approximately 73 percent of the Teleph

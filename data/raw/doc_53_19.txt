@@ -1,0 +1,24 @@
+iabilities (Note 7)
+Common stock - $1 par value Authorized: 2,000 shares Issued and outstanding: one share 250.0 220.0 210.0 Profit employed in the business 175.5 137.7 101.1 Foreign currency translation
+adjustment (Note 1G) (7.5) (3.7) 1.8 Total stockholder's equity 418.0 354.0 312.9
+Total liabilities and stockholder's equity $3,564.7 $2,843.3 $2,489.0
+(See Notes to Consolidated Financial Statements)
+CATERPILLAR FINANCIAL SERVICES CORPORATION
+CONSOLIDATED STATEMENT OF INCOME AND RETAINED EARNINGS
+FOR THE YEARS ENDED DECEMBER 31, (Millions of dollars)
+1993 1992
+Revenues: Wholesale finance income $ 5.8 $ 4.1 $ - Retail finance income 246.4 235.2 227.7 Rental income 95.7 88.7 78.0 Other income, net 15.7 14.4 10.7 Total revenues 363.6 342.4 316.4
+Expenses: Interest (Notes 6 & 7) 173.1 174.4 176.3 Depreciation 69.6 63.1 54.4 General, operating, and administrative 41.7 32.9 29.6 Provision for credit losses 20.8 20.4 13.2 Total expenses 305.2 290.8 273.5
+Income before income taxes, minority interest, and cumulative effect of change in accounting for income taxes 58.4 51.6 42.9
+Provision for income taxes (Note 8) 21.3 17.6 14.4
+Minority interest in earnings (losses) of subsidiary (0.7) - -
+Income before cumulative effect of change in accounting for income taxes 37.8 34.0 28.5
+Cumulative effect of change in accounting for income taxes - 2.6 -
+Net income 37.8 36.6 28.5
+Retained earnings - beginning of year 137.7 101.1 72.6
+Retained earnings - end of year $175.5 $137.7 $101.1
+(See Notes to Consolidated Financial Statements) CATERPILLAR FINANCIAL SERVICES CORPORATION
+CONSOLIDATED STATEMENT OF CASH FLOWS
+FOR THE YEARS ENDED DECEMBER 31, (Millions of dollars)
+1993 1992
+Cash flows from operating activities: Net income $ 37.8 $ 36.6 $ 28.5 Adjustments for noncash items: Depreciation 69.6 63.1 54.4 Provision for credit losses 20.8 20.4 13.2 Other (4.4) (6.1) (5.7) Change in assets and liabilities: Receivables from customers and others (15.3) 14.9 (14.6) Deferred and refundable inco

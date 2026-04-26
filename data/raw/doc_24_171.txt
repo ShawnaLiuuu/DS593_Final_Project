@@ -1,0 +1,10 @@
+.62% ============= ========== ==========
+Average borrowing was computed based on average daily balances during the period. Average interest rate during the period was computed by dividing interest expense for the period by the average borrowing during the period.
+Securities sold under agreements to repurchase are summarized below (in thousands):
+December 31, ---------------------- 1993 1992 ----------- --------- Agreements to repurchase the same security $ 18,152 $ 20,000 Customer repurchase agreements 2,983 1,532 ----------- --------- Total $ 21,135 $ 21,532 =========== =========
+The following table lists the book and approximate market value of securities sold under repurchase agreements, and the repurchase liability associated with such transactions was (dollars in thousands):
+Weighted Approximate Average Book Market Repurchase Interest Value Value Balance Rate --------- ------------ ------------ ---------- December 31, 1993 FNMA $ 13,406 $ 13,424 $ 13,165 $ 3.50% FHLMC 10,983 11,521 7,970 2.96% --------- ------------ ------------ ---------- Total $ 24,389 $ 24,945 $ 21,135 $ 3.30% ========= ============ ============ ==========
+December 31, 1992 FHLMC $ 25,101 $ 25,833 $ 21,532 $ 3.38% ========= ============ ============ ==========
+All repurchase agreements at December 31, 1993 and 1992, matured and were repaid in January 1994 and 1993, respectively. These securities were held by unrelated broker dealers.
+11. Capital Notes and Other Subordinated Debentures, Preferred Stock, Common Stock Warrants, and Common Stock Options
+In order to increase its regulatory capital, BankAtlantic issued $25.0 million of its 1986 Capital Notes between January and August 1986. In March 1991, $10.2 million of 1986 Capital Notes were exchanged for noncumulative preferred stock, cash payments and cash bonuses. The Preferred Stock was recorded at a fair value of $7.0 million, net of offering costs of $353,000 and BankAtlantic recognized an extraordinary gain of $660,000 net of applicable

@@ -1,0 +1,21 @@
+ts, the consolidated financial position of LSB Industries, Inc. at December 31, 1993 and 1992, and the consolidated results of its operations and its cash flows for each of the three years in the period ended December 31, 1993, in conformity with generally accepted accounting principles. Also, in our opinion, the related financial statement schedules, when considered in relation to the basic financial statements taken as a whole, present fairly in all material respects the information set forth therein.
+ERNST & YOUNG
+Oklahoma City, Oklahoma March 15, 1994
+LSB Industries, Inc. Consolidated Balance Sheets
+December 31, 1993 1992 ------------------------------ (In Thousands)
+Assets Cash and cash equivalents $ 11,687 $ 33,271
+Trade accounts receivable, less allowance for doubtful accounts of $2,583,000 in 1993 and $3,082,000 in 1992 49,533 36,050
+Loans held for sale 18,574 6,358
+Mortgage-backed securities held for sale 13,946
+Loans receivable, including related accrued interest receivable, net (Note 5) 124,060 119,278
+Mortgage-backed securities held for investment, including related accrued interest receivable (Note 5) 202,723 175,427
+Other securities held for investment 7,806 7,010
+Inventories 48,384 48,373
+FSLIC receivables and assets covered by assistance (Note 4) 52,004
+Supplies and prepaid items 5,459 4,134
+Foreclosed real estate (Note 5) 19,262 15,151
+Property, plant and equipment, net 65,670 58,049
+Excess of purchase price over net assets acquired, net of accumulated amortization of $15,470,000 in 1993 and $10,777,000 in 1992 (Notes 3 and 4) 22,184 19,866
+Other assets 8,224 7,277 ----------------------- $597,512 $582,248 =======================
+December 31, 1993 1992 ------------------------ (In Thousands)
+Liabilities, preferred and common stocks and other stockholders equity Liabilities: Deposits (Note 5) $332,511 $336,053 Accounts payable 22,645 18,906 Drafts payable 1,220 4,549 Securities sold under agreements to repurchase 38,721 50,344 Payable to FSLIC (Note 

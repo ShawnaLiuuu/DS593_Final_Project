@@ -1,0 +1,26 @@
+tal $ 409.2 $ 360.6 $ 350.3
+The components of deferred federal income tax expense for 1992 and 1991 as reported prior to the adoption of Statement No. 109 are as follows: 1992 1991
+Depreciation $ (23.7) $ (62.5)
+Employee benefits (70.0) 3.8
+Other - net (7.0) (10.8)
+Total $ (100.7) $ (69.5)
+A reconciliation of income tax expense and the amount computed by applying the statutory federal income tax rate (35 percent for 1993, 34 percent for 1992 and 1991) to income before income taxes and extraordinary loss and cumulative effect of changes in accounting principals is as follows:
+1993 1992 1991
+Taxes computed at federal $ 498.5 $ 450.4 $ 437.4 statutory rate
+Increases (decreases) in taxes resulting from:
+Amortization of investment tax credits over the life of the plant that gave rise to the credits (65.5) (72.0) (86.7)
+Excess deferred taxes due to rate (43.2) (74.3) (55.8) change
+Depreciation of telephone plant construction costs previously deducted for tax purposes - net 22.5 21.7 23.2
+State and local income taxes - net of federal tax benefit 29.1 29.0 22.3
+Other - net (32.2) 5.8 9.9
+Total $ 409.2 $ 360.6 $ 350.3
+On August 10, 1993, the Omnibus Budget Reconciliation Act was signed into law. Among other provisions, the top corporate tax rate was raised to 35 percent, effective January 1, 1993. The effect on net income was not material, as the increase in taxes on operating income was offset by an increase in deferred tax assets associated with the postemployment benefit obligation. Increases in previously recorded deferred tax liabilities were offset by decreases in the net regulatory liability.
+4. Property, Plant and Equipment
+Property, plant and equipment, which is stated at cost, is summarized as follows at December 31: 1993 1992
+Telephone plant:
+In service $ 25,970.0 $ 25,005.4 Under construction 261.3 265.5
+26,231.3 25,270.9
+Accumulated depreciation and amortization (10,532.2) (9,604.8)
+Property, plant and equipment - net $ 15,699.1 $ 15,666.1
+5. Leases
+Certain faci

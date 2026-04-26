@@ -1,0 +1,11 @@
+tion amounts for periods of 6 to 13 years. The Company's divestiture program resulted in a decrease in U.S. pension plan participants during 1993. The total curtailment and settlement gain of $1.2 million was applied to the reserve for divestitures (see Note 3). The Company included a $1.9 million curtailment loss in its estimated loss on disposal related to the discontinued operation. It is the general policy of the Company to fund its pension plans in conformity with requirements of applicable laws and regulations. Pension expense (including $1.1 million, $1.0 million and $0.8 million charged to discontinued operations in 1993, 1992 and 1991, respectively) is comprised of the following:
+Year Ended December 31 (Dollars in thousands) 1993 1992 1991
+Service cost $ 7,678 $ 7,526 $ 7,641 Interest cost on projected benefit obligation 13,802 14,271 13,282 Actual return on plan assets (22,646) (10,620) (26,436) Net amortization and deferral 9,567 (2,452) 14,324 Net pension expense $ 8,401 $ 8,725 $ 8,811
+Assumptions used in the accounting for the Company-sponsored defined benefit plans:
+Year Ended December 31 1993 1992 1991
+Weighted average discount rate 7.5% 8.0% 8.5%
+Rate of increase in compensation levels 5.3% 5.3% 6.0%
+Expected long-term rate of return on assets 9.0% 9.0% 9.0%
+The following table sets forth the funded status and amounts recognized in the consolidated balance sheet for the defined benefit pension plans:
+Year Ended December 31 (Dollars in thousands) 1993 1992
+Assets Accumulated Assets Accumulated Exceed Benefits Exceed Benefits Accumulated Exceed Accumulated Exceed Benefits Assets Benefits Assets Actuarial present value of benefit obligations: Vested benefit obligation $102,819 $ 62,394 $ 72,087 $ 79,985 Accumulated benefit obligation $107,089 $ 63,428 $ 73,682 $ 81,938 Projected benefit obligation $128,485 $ 64,432 $ 85,231 $ 96,000 Plan assets at fair value 135,616 49,326 112,877 67,251 Plan assets in excess of (less than) projected benefit obligation

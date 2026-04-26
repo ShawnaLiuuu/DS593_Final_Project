@@ -1,0 +1,12 @@
+ed (the "Merger") on June 29, 1988, whereby the Company became a wholly owned subsidiary of ASI Holding Corporation, a Delaware corporation ("Holding") organized by Kelso to participate in the acquisition of the Company. At that time the remaining shares of the Company's common stock were converted into the right to receive cash of $78 per share. The Tender Offer, Merger, and related transactions are hereinafter referred to as the "Acquisition." For financial statement purposes the Acquisition has been accounted for under the purchase method.
+Note 2. Accounting Policies
+Consolidation
+The financial statements include on a consolidated basis the results of all majority-owned subsidiaries. All material intercompany transactions are eliminated. Investments in affiliated companies are included at cost plus the Company's equity in their net results.
+Translation of Foreign Financial Statements
+Assets and liabilities of most foreign operations are translated at year-end rates of exchange, and the income statements are translated at the average rates of exchange for the period. Gains or losses resulting from translating foreign currency financial statements are accumulated in a separate component of stockholder's equity until the entity is sold or substantially liquidated.
+Gains or losses resulting from foreign currency transactions (transactions denominated in a currency other than the entity's local currency) are included in net income. For operations in countries that have high rates of inflation, net income includes gains and losses from translating assets and liabilities at year-end rates of exchange, except for inventories and facilities, which are translated at historical rates.
+Revenue Recognition
+Sales are recorded when shipment to a customer occurs.
+AMERICAN STANDARD INC. AND SUBSIDIARIES NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Statement of Cash Flows
+Cash and certificates of deposit include all highly liquid investments with an original maturity of three months

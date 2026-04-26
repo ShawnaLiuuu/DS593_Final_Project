@@ -1,0 +1,11 @@
+tablished through a provision charged to expense. Loans are charged against the allowance when management believes collection of the principal is unlikely.
+Management evaluates the adequacy of the allowance for loan losses on a quarterly basis. The evaluations are based on the collectibility of loans and take into consideration such factors as growth and composition of the loan portfolio, evaluation of potential losses, past loss experience and general economic conditions. As part of these evaluations, management reviews all loans which have been classified internally or through regulatory examination and, if appropriate, allocates a specific reserve to each of these individual loans. Further, management establishes a general reserve to provide for potential losses which are, as yet, unidentified in the loan portfolio. The general reserve is based upon historical experience. The allowance for loan losses is compared against the sum of the specific reserves plus the general reserve and adjustments are made, as appropriate. Table 7 analyzes the activity in the allowance over the last five years.
+Table 7
+ANALYSIS OF ALLOWANCE FOR LOAN LOSSES (Dollars in Thousands) For the Years Ended December 31, 1993 1992 1991 1990 1989
+Balance at Beginning of Year $7,585 $7,670 $7,526 $6,168 $5,355 Allowance for Loan Losses Acquired Through Acquisition - - - - 186
+Charge-Offs: Commercial, Financial and Agricultural 556 511 724 878 911 Real Estate - Construction - 33 - - - Real Estate - Mortgage 81 460 175 169 178 Consumer 884 929 1,263 1,331 1,180 Total Charge-Offs 1,521 1,933 2,162 2,378 2,269
+Recoveries: Commercial, Financial and Agricultural 198 231 177 126 109 Real Estate - Construction - - - - - Real Estate - Mortgage 8 7 18 14 21 Consumer 364 394 294 254 319 Total Recoveries 570 632 489 394 449
+Net Charge-Offs 951 1,301 1,673 1,984 1,820
+Provision for Loan Losses 960 1,216 1,817 3,342 2,447
+Balance at End of Year $7,594 $7,585 $7,670 $7,526 $6,168
+Ratio of Net Charge-Offs Durin

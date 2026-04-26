@@ -1,0 +1,10 @@
+es. If a quoted market price is not available, fair value is estimated using market prices for similar securities.
+Loans - The loan portfolio is segregated into categories of loans with similar financial characteristics. The fair value of each loan category is calculated using present value techniques based upon projected cash flows and estimated discount rates. The calculated present values are then reduced by an allocation of the allowance for loan losses against each respective loan category.
+Deposits - The fair value of Noninterest Bearing Deposits, NOW Accounts, Money Market Accounts and Savings Accounts are the amounts payable on demand at the reporting date. The fair value of fixed maturity certificates of deposit is estimated using the rates currently offered for deposits of similar remaining maturities.
+Long-Term Debt - Carrying value of the Company's long-term debt approximates fair value due to the repricing frequency of the debt. The debt is generally repriced every 90 to 180 days and all long-term debt currently outstanding will reprice on or before March 31, 1994.
+Commitments to Extend Credit and Standby Letters of Credit - The fair value of commitments to extend credit is estimated using the fees currently charged to enter into similar agreements, taking into account the present creditworthiness of the counterparties. Fair value of these fees is not material.
+The Company's financial instruments which have estimated fair values differing from their respective carrying values are presented below.
+As Of December 31, 1993 1992 Estimated Estimated Carrying Fair Carrying Fair Value Value Value Value
+Financial Assets: Investment Securities $218,623 $221,274 $186,437 $190,262 Loans, Net of Allowance for Loan Losses 391,830 394,171 362,326 363,891
+Financial Liabilities: Deposits 662,745 663,665 597,497 598,848
+Certain financial instruments and all nonfinancial instruments are excluded from the disclosure requirements. The disclosures also do not include certai

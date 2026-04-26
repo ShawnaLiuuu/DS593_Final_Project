@@ -1,0 +1,10 @@
+eal estate held for sale (777,651) (1,553,823) Payment of expenses on loans in substantive foreclosure (35,044) Collection of principal payments on loans receivable and loans in substantive foreclosure 35,290,969 284,598 1,173,825 Collection of principal payment on investment in acquisition loan 202,552 Improvements to properties (3,347,853) (1,473,345) (552,771) Payment of deferred expenses (486,394) (898,040) Proceeds from property sale 9,000,000 714,450 Costs incurred in connection with the sale of real estate (28,269) Purchase of joint venture interest in property with affiliate (1,932,909) -------------- ------------- ------------- Net cash provided by or used in investing activities 39,130,115 (2,546,245) (932,769) -------------- ------------- -------------
+Financing activities:
+Distributions to Limited Partners (11,060,496) (15,208,182) (19,355,868) Distributions to General Partner (1,228,944) (1,574,583) (2,150,652) Distributions to joint venture partners - affiliates (160,988) (1,182,789) (971,899) Capital contributions by joint venture partners - affiliates 770,696 670,948 Repayment of underlying loan payable (7,851,022) Principal payments on underlying loans and mortgage notes payable (314,982) (478,772) (392,953) -------------- ------------- ------------- Net cash used in financing activities (19,845,736) (17,773,378) (22,871,372) -------------- ------------- -------------
+Net change in cash and cash equivalents 34,541,688 (3,926,410) (3,889,102)
+Cash and cash equivalents at beginning of year 14,279,189 18,205,599 22,094,701 -------------- ------------- ------------- Cash and cash equivalents at end of year $ 48,820,877 $ 14,279,189 $ 18,205,599 ============== ============= =============
+The accompanying notes are an integral part of the financial statements.
+BALCOR PENSION INVESTORS-VI (An Illinois Limited Partnership)
+NOTES TO FINANCIAL STATEMENTS
+1. Accounting Policies:
+(a) The Partnership records wrap-around mortgage loans at the face amount of the m

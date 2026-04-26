@@ -1,0 +1,11 @@
+ selling financing receivables to investors subject to limited recourse provisions during the fourth quarter of 1993. The Company's interest in excess servicing cash flows, subordinated interests in trusts, cash deposits and other related amounts are restricted assets and subject to limited recourse provisions. The following summarizes the amounts included in due and deferred from receivable sales:
+December 31, ____________ (Dollars in thousands)
+Excess servicing $ 26,355 Subordinated interests in trusts 172,970 Receivables from investors 45,786 Cash deposits held by trustee 16,730 Less: Allowance for estimated credit losses on receivables sold (15,949) _________ $245,892 =========
+Gains and losses from the sale of financing receivables are recognized in the period in which the sale occurs. Provisions for expected credit losses are provided during the periods in which the receivables were originated, and, as such, the gain or loss is not usually required to be adjusted for expected credit losses. The gain on the sale of receivables is included in other income, and amounted to $21.0 million for the year ended December 31, 1993. The provision for credit losses relating to such sales amounted to $16.4 million.
+SHORT-TERM DEBT:
+The components of short-term debt at December 31, 1993 and 1992 are as follows:
+(Dollars in thousands) 1993 1992 __________ __________ Commercial paper. . . . . . . . . . . . . . . $1,641,473 $3,409,184 Current maturities of long-term debt . . . . 1,399,687 845,297 IBM Money Market Account notes. . . . . . . . 359,874 530,917 Other short-term debt . . . . . . . . . . . . 826,690 613,632 __________ __________ $4,227,724 $5,399,030 ========== ==========
+Other short-term debt includes notes having maturities between nine and twelve months offered through the Company's medium-term note program.
+:hp3.LONG-TERM DEBT::EHP3.
+The components of long-term debt at December 31, 1993 and 1992 are as follows:
+(Dollars in thousands) 1993 1992 __________ ________

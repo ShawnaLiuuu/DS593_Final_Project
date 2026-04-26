@@ -1,0 +1,11 @@
+lity of receivable balances and maintains an allowance for credit losses, which it believes is sufficient to cover uncollectible accounts. Uncollectible receivable balances are written off against the allowance for credit losses when the underlying collateral is repossessed. Prior to 1993, uncollectible receivable balances were written off when the underlying collateral was sold.
+F. Income taxes
+The Company has a tax sharing agreement with Caterpillar in which the Company consents to the filing of consolidated income tax returns with Caterpillar, and Caterpillar agrees, among other things, to collect from or pay to the Company its allocated share of any consolidated income tax liability or credit applicable to any period for which the Company is included as a member of the consolidated group in a manner determined as if each company in the consolidated group had computed its tax on a separate return basis. Similar agreements exist between Caterpillar Financial Australia Limited and Caterpillar of Australia Ltd. with respect to taxes payable in Australia, and between the Company and Caterpillar with respect to taxes payable in Germany.
+G. Foreign currency translation
+Assets and liabilities of foreign subsidiaries are translated at current exchange rates, and the effects of translation adjustments are reported as a separate component of stockholder's equity entitled "Foreign currency translation adjustment."
+NOTE 2 - RECEIVABLES AND ALLOWANCE FOR CREDIT LOSSES
+The contractual maturities of outstanding receivables at December 31, 1993, were:
+Installment Financing Amounts due in contracts leases Notes Total
+1994 $ 415.9 $ 392.5 $ 362.2 $1,170.6 1995 304.1 296.6 288.1 888.8 1996 189.7 198.5 219.6 607.8 1997 70.8 116.7 115.2 302.7 1998 14.0 56.4 123.2 193.6 Thereafter 1.0 74.7 70.0 145.7 995.5 1,135.4 1,178.3 3,309.2 Residual Value - 219.9 - 219.9
+Total $ 995.5 $1,355.3 $1,178.3 $3,529.1
+Receivables generally may be repaid or refinanced without penalty prior to contractua

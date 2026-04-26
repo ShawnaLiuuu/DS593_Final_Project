@@ -1,0 +1,10 @@
+0,599 138,663 Corporate 58,043 91,827 51,171 Discontinued Operation 85,000 266,092 286,919 Total identifiable assets $637,911 $950,580 $982,074 Depreciation and amortization Morse Controls $ 6,775 $ 7,737 $ 7,485 Pumps, Power Transmission & Controls 9,449 9,388 9,501 Turbomachinery 6,209 6,627 6,446 Other 3,435 4,622 5,024 Corporate 3,516 2,499 2,439 Total depreciation and amortization $ 29,384 $ 30,873 $ 30,895 Capital expenditures Morse Controls $ 4,907 $ 5,638 $ 5,258 Pumps, Power Transmission & Controls 4,065 5,055 5,526 Turbomachinery 3,492 3,169 3,766 Other 1,069 982 2,037 Corporate 352 3,282 1,813
+Total capital expenditures $13,885 $ 18,126 $ 18,400
+The continuing operations of the Company on a geographic basis are as follows:
+Year Ended December 31 (Dollars in thousands) 1993 1992 1991
+Net sales United States $452,455 $496,224 $528,849 Foreign (principally Europe) 189,254 237,379 248,463 Total net sales $641,709 $733,603 $777,312 Segment operating income United States $ 31,829 $ 13,947 $ 56,425 Foreign 683 7,539 12,634 Total segment operating income $ 32,512 $ 21,486 $ 69,059 Identifiable assets Continuing Operations: United States $378,739 $503,991 $479,885 Foreign 174,172 180,497 215,270 Discontinued Operation: United States 80,252 262,178 279,834 Foreign 4,748 3,914 7,085
+Total identifiable assets $637,911 $950,580 $982,074
+Export sales Asia $ 27,521 $ 27,701 $ 34,732 Latin America 12,962 6,877 4,552 Canada 10,882 8,027 9,387 Mexico 7,504 1,837 6,102 Europe 4,901 9,795 7,178 Other 7,992 8,646 8,345
+Total export sales $ 71,762 $ 62,883 $ 70,296
+Note 11 Pension Plans
+The Company and its subsidiaries have various pension plans covering substantially all of their employees. Benefits are based on either years of service or years of service and average compensation during the years immediately preceding retirement. Pension expense was $8.4 million in 1993, $8.7 million in 1992, and $8.8 million in 1991, and includes amortization of prior service cost and transi

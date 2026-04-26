@@ -1,0 +1,11 @@
+) --NNG Energy Systems, Inc. (Energy Systems)
+Together these businesses are referred to herein as the "Company." Intercompany accounts and transactions have been eliminated.
+Investments in corporate joint ventures and partnerships in which the Company's ownership is 50 percent or less are accounted for by the equity method or the cost method (see Note 11).
+Certain amounts from prior years have been reclassified to conform with the 1993 presentation.
+Industry Regulation - -------------------
+The Company's principal business is the distribution of natural gas which is regulated by the Oregon Public Utility Commission (OPUC) and the Washington Utilities and Transportation Commission (WUTC). Accounting records and practices conform to the requirements and uniform system of accounts prescribed by these regulatory authorities.
+Utility Plant - -------------
+Utility plant for Northwest Natural is stated at original cost. When a depreciable unit of property is retired, the cost is credited to utility plant and debited to the accumulated provision for depreciation together with the cost of removal, less any salvage. No gain or loss is recognized upon normal retirement.
+Allowance for Funds Used During Construction (AFUDC), a non- cash item, is calculated using actual commercial paper interest rates. If commercial paper balances are insufficient to finance the amount of work in progress, a
+NORTHWEST NATURAL GAS COMPANY NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - ----------------------------------------------------------------
+composite of interest costs of debt, shown as a reduction to interest charges, and a return on equity funds, shown as other income, is used to compute AFUDC. This amount is added to utility plant which is a component of rate base. While cash is not realized currently from AFUDC, it is realized in the ratemaking process over the service life of the related property through increased revenues resulting from higher rate base and higher depreciation expense. 

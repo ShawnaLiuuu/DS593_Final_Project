@@ -1,0 +1,19 @@
+bt, net. . . . . . . . (42.3) (60.7) (47.4)
+Interest, net (note 4) . . . . . . . . . . . 68.1 46.9 92.7
+Income (loss) from continuing operations before income taxes . . . . . . . . . . . . 479.3 227.0 (178.6)
+Income tax (expense) benefit (note 5). . . . (153.1) (64.5) 79.9
+Income (loss) from continuing operations . . 326.2 162.5 (98.7)
+Discontinued operations (note 7) . . . . . . 12.9
+Income (loss) before cumulative effects of changes in accounting principles . . . . . 326.2 162.5 (85.8)
+Cumulative effects of changes in accounting principles (note 1) . . . . . . (81.5)
+Net income (loss). . . . . . . . . . . . . . $ 326.2 $ 81.0 $ (85.8)
+Per share of common stock (note 6): Continuing operations . . . . . . . . . . . $ 20.39 $ 10.51 $ (6.11) Discontinued operations . . . . . . . . . . .79 Cumulative effects of changes in accounting principles (note 1) . . . . . (5.28)
+Net income (loss) . . . . . . . . . . . . . $ 20.39 $ 5.23 $ (5.32)
+See notes to consolidated financial statements.
+CONSOLIDATED BALANCE SHEETS CBS Inc. and subsidiaries (Dollars in millions, except per share amounts)
+ASSETS
+December 31 1993 1992 1991
+Current assets: Cash and cash equivalents (note 1). . . . . . . . $ 173.4 $ 145.4 $ 270.0 Marketable securities (note 1). . . . . . . . . . 420.7 332.3 215.7 Accounts receivable, less allowance for doubtful accounts: 1993, $9.1; 1992, $9.7; 1991, $9.0 . . 454.5 417.4 420.3 Program rights. . . . . . . . . . . . . . . . . . 581.9 447.4 505.5 Recoverable income taxes (note 5) . . . . . . . . 28.8 117.1 90.2 Other . . . . . . . . . . . . . . . . . . . . . . 18.2 20.9 18.2
+Total current assets. . . . . . . . . . . . . . . 1,677.5 1,480.5 1,519.9
+Marketable securities (note 1). . . . . . . . . . 826.0 752.6 602.4
+Property, plant and equipment (note 2): Land. . . . . . . . . . . . . . . . . . . . . . . 81.4 76.8 32.5 Buildings . . . . . . . . . . . . . . . . . . . . 319.0 297.2 218.0 Machinery and equipment . . . . . . . . . . . . . 556.9 542.0 544.2 Leasehold imp

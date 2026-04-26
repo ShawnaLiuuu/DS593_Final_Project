@@ -1,0 +1,19 @@
+scontinued operation in accordance with Accounting Principles Board Opinion No. 30. Certain prior year amounts have been reclassified to conform to the current year presentation.
+Note 2 Discontinued Operation
+In January 1994, the Company announced its intention to dispose of its Electro-Optical Systems operations which consists of the Company's subsidiaries Varo Inc. and Baird Corporation. Under a plan approved by the Board of Directors, the Company intends to sell these operations in 1994 and has engaged an outside investment banking firm to assist in the divestiture.
+In accordance with APB Opinion No. 30, the disposal of this business segment has been accounted for as a discontinued operation and, accordingly, its operating results are segregated and reported as a Discontinued Operation in the accompanying Consolidated Statements of Income. Prior year financial statements have been reclassified to conform to the current year presentation.
+Net assets and liabilities of the Discontinued Operation consist of the following:
+December 31 (Dollars in thousands) 1993 1992
+Current Assets: Receivables $24,544 $26,378 Inventories 53,093 63,683 Other current assets 1,845 6,172 79,482 96,233
+Current Liabilities: Trade accounts payable 13,715 17,010 Other current liabilities 17,774 14,131 31,489 31,141
+Net Current Assets $47,993 $65,092
+Long-term Assets: Property $40,508 $101,737 Intangible assets - 109,612 Other long-term assets 3,548 2,537 44,056 213,886
+Long-term Liabilities 7,049 12,886
+Net Long-term Assets $37,007 $201,000
+Net Assets $85,000 $266,092
+A condensed summary of operations for the Discontinued Operation is as follows:
+Year Ended December 31 (Dollars in thousands) 1993 1992 1991 Net Sales $171,548 $194,654 $246,674
+Income (loss) from operations before income taxes and minority interest (44,933) (48,498) 4,507
+Income taxes (benefit) - (15,560) 1,713 Minority interest 383 (198) 903
+Income (loss) from operations $(45,316) $(32,740) $ 1,891
+Income (loss) from operati

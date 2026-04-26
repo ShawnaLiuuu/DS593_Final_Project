@@ -1,0 +1,11 @@
+, become an Event of Default.
+"Effective Date" means the date on which this Agreement becomes effective in accordance with Section 9.9.
+"Environmental Requirements" means all federal, state and local environmental laws (including, without limitation, CERCLA), rules, regulations and orders regulating, relating to or imposing liability or standards of conduct concerning any Hazardous Materials.
+"ERISA" means the Employee Retirement Income Security Act of 1974, as amended.
+"Euro-Dollar-Based Advance" means an Advance that bears interest at the Euro-Dollar-Based Rate.
+"Euro-Dollar-Based Rate" means a rate of interest based on the Adjusted London Interbank Offered Rate as provided in Section 2.4(b).
+"Euro-Dollar Reserve Percentage" for any day shall mean the percentage (expressed as a decimal, rounded upward to the nearest 1/100 of 1%), as determined in good faith by the Bank (which determination shall be conclusive), which is in effect on such day as prescribed by the Board of Governors of the Federal Reserve System (or any successor) representing the maximum reserve requirement (including, without imitation, supplemental, marginal and emergency reserve requirements) with respect to eurocurrency funding (currently referred to as "Eurocurrency liabilities") of a member bank in such System. The Adjusted London Interbank Offered Bank shall be
+adjusted automatically as of the effective date of each change in the Euro- Dollar Reserve Percentage.
+"Euro-Rate Interest Period" shall mean a period of one, two, three or six months for which maker has selected the Euro-Rate Option to apply to a Euro- Rate Segment. Each Euro-Rate Interest Period shall begin on a London Business Day, and the term "month", when used in connection with a Euro-Rate Interest Period shall be construed in accordance with prevailing practices in the Interest Period, as determined in good faith by Bank (which determination shall be conclusive).
+"Event of Default" has the meaning set forth in Section 7.1.
+"GA

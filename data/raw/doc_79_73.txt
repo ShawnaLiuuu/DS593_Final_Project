@@ -1,0 +1,10 @@
+exception to, or otherwise be within the limitations of, another covenant shall not avoid the occurrence of a Default if such action is taken or such condition exists.
+ARTICLE VII
+DEFAULTS
+Section 7.1 Events of Default. If one or more of the following events ("Events of Default") shall have occurred and be continuing:
+(i) the Borrower shall fail to pay when due or within 10 Business Days thereafter any principal of or interest on the Advances or any other amount payable hereunder or under the Note;
+(ii) the Borrower shall fail to observe or perform any covenant contained in Article V or Section 6.7, 6.8, 6.9, 6.10, 6.11, 6.12, 6.13, 6.14, 6.15 or 6.16 of this Agreement;
+(iii) the Borrower shall fail to observe or perform any covenant or agreement contained in this Agreement (other than those covered by clause (i) or (ii) above) for 10 Business Days after written notice thereof shall have been given to the Borrower by the Bank; provided, however, that the Borrower shall be entitled to a reasonable period of time (not to exceed 60 days following the Borrower's receipt of such written notice) to cure such failure if (A) the Bank reasonably determines that such failure cannot be remedied within such 10 Business Day period, (B) the Borrower initiates action to cure such failure within such 10
+Business Day period, (C) the Borrower proceeds diligently and in good faith to cure such failure and (D) the Bank determines that such failure will not impair the ability of the Borrower to pay when due or within 10 Business Days thereafter any principal of or interest on the Advances or any other amount payable hereunder or under the Note;
+(iv) any representation, warranty, certification or statement made by the Borrower in this Agreement, or in any certificate, financial statement or other document delivered pursuant hereto or thereto, shall prove to have been incorrect in any material respect when made;
+(v) the Borrower shall fail to make any payment in respect of any Debt (other

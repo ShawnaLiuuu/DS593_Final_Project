@@ -1,0 +1,12 @@
+ employees.
+The Corporation's objective in funding the plans, in combination with the standards of the Employee Retirement Income Security Act of 1974 (as amended), is to accumulate funds sufficient to meet its benefit obligations to employees upon their retirement. Contributions to the plans are made to a trust for the benefit of plan participants. Plan assets consist primarily of stocks, U.S. government and domestic corporate bonds and real estate.
+The following data relate to plan costs:
+1993 1992 1991
+Pension cost (credit) $ 21.6 $ 61.5 $ (57.5)
+Amount capitalized in property, plant and equipment $ 1.5 $ 11.5 $ (5.5)
+Assumed discount rate for determining projected benefit obligation 7.25% 7.5% 7.5%
+Assumed long-term rate of return on plan assets 8.0% 8.0% 7.75%
+Assumed composite rate of compensation increase 4.6% 4.6% 4.6%
+Statement of Financial Accounting Standards No. 87, "Employers' Accounting for Pensions", requires certain disclosures to be made of components of net periodic pension cost for the period and a reconciliation of the funded status of the plans with amounts reported in the balance sheets. Since the funded status of plan assets and obligations relates to the plans as a whole, which are sponsored by the Corporation, this information is not presented for the Telephone Company. As of December 31, 1993 and 1992, the amount of the Telephone Company's cumulative contributions made to the pension trust in excess of its cumulative amount of pension cost recognized was $251.8 and $396.6, respectively. Based on the actuarial valuations of each plan, the fair value of each plan's assets exceeded the estimated actuarial projected benefit obligation at December 31, 1993 and 1992.
+Savings Plans Substantially all employees are eligible to participate in contributory savings plans sponsored by the Corporation. Under the savings plans, the Telephone Company matches a stated percentage of eligible employee contributions, subject to a specified ceiling.
+Since 1990,

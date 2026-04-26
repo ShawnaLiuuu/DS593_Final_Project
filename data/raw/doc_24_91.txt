@@ -1,0 +1,14 @@
+(loss) $ (1,804) 2,557 (17,359) ========== ========== ========== Earnings (loss) per share: Net earnings (loss) before cumulative effect of change in accounting for income taxes and extraordinary items $ (1.18) 0.78 (10.71) Cumulative effect of change in accounting for income taxes (0.29) - - Extraordinary items - 0.32 .20 ---------- ---------- ---------- Net earnings (loss) per share $ (1.47) 1.10 (10.51) ========== ========== ========== Weighted average number of shares outstanding 1,702 1,702 1,718 ========== ========== ==========
+See accompanying notes to consolidated financial statements. BFC FINANCIAL CORPORATION Consolidated Statements of Stockholders' Equity (Deficit)
+For each of the years in the three year period ended December 31, 1993 (in thousands, except share data)
+Addi- tional Accu- Trea- Common Paid-in mulated sury Stock Capital Deficit Stock Total -------- -------- -------- -------- -------- Balance at December 31, 1990 18 15,584 (5,383) (280) 9,939
+Purchase of treasury stock - - - (53) (53)
+Retirement of treasury stock (1) (52) - 53 -
+Net (loss) - - (17,359) - (17,359) -------- -------- -------- -------- -------- Balance at December 31, 1991 17 15,532 (22,742) (280) (7,473)
+Net income - - 2,557 - 2,557 -------- -------- -------- -------- -------- Balance at December 31, 1992 17 15,532 (20,185) (280) (4,916)
+Effect of issuance of BankAtlantic's common stock to BankAtlantic minority shareholders - (268) - - (268)
+Net (loss) - - (1,804) - (1,804) -------- -------- -------- -------- -------- Balance at December 31, 1993 17 15,264 (21,989) (280) (6,988) ======== ======== ======== ======== ========
+See accompanying notes to consolidated financial statements.
+Consolidated Statements of Cash Flows
+For each of the years in the three year period ended December 31, 1993 (In thousands)
+1993 1992 1991 --------- --------- --------- Operating activities: Income (loss) before extraordinary items and cumulative effect of change in accounting for income taxes $ (1,3

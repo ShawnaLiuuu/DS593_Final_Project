@@ -1,0 +1,13 @@
+ the prior period financial statements have been reclassified to conform to the 1993 presentation.
+B. Recognition of earned income
+Retail finance income - Income on retail finance receivables (financing leases, installment sale contracts, and customer and dealer loans) is recognized over the term of the contract at a constant rate of return on the scheduled uncollected principal balance.
+Wholesale finance income - Income on wholesale finance receivables (dealer floor planning in Germany and rental fleet financing in the United States) is recognized based on the daily balance of wholesale receivables outstanding and the applicable effective interest rate.
+Rental income - Income on operating leases is reported over the life of the operating lease in the period earned.
+Fee income - Loan origination fees are amortized to finance income using the interest method over the contractual terms of the finance receivables. Commitments fees are amortized to other income using the straight-line method over the commitment period.
+Recognition of income is suspended when management determines that collection of future income is not probable. Accrual is resumed if the receivable becomes contractually current and collection doubts are removed; previously suspended income is recognized at that time.
+C. Depreciation
+Depreciation on operating leases is recognized using the straight-line method over the lease term. The depreciable basis is the original cost of the equipment less the estimated residual value of the equipment at the end of the lease term. Depreciation on property and equipment, other than equipment on operating leases, that the Company owns, was less than $1.3 million for 1993.
+D. Cash and cash equivalents
+Cash and cash equivalents include cash on hand or on deposit with banks and highly liquid short-term investments with maturities of three months or less at the time of purchase.
+E. Allowance for credit losses
+Management regularly evaluates factors affecting the collectibi

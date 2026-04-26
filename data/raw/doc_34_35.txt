@@ -1,0 +1,28 @@
+net 358.2 332.9 Equipment held for sale or re-lease 32.0 56.6 Real estate owned 12.9 55.2 Accounts with MDC and MDFS 70.4 40.9
+Other assets 84.5 85.7
+$2,063.2 $ 1,999.0
+LIABILITIES AND SHAREHOLDER'S EQUITY
+Short-term notes payable $ 202.6 $ 133.5 Accounts payable and accrued expenses 59.2 41.2 Other liabilities 74.5 73.9 Deferred income taxes 298.9 297.1
+Long-term debt: Senior 1,080.8 1,104.2 Subordinated 77.8 92.7
+1,793.8 1,742.6
+Commitments and contingencies - Note 8
+Shareholder's equity:
+Preferred stock - no par value; authorized 100,000 shares: Series A; $5,000 stated value; authorized, issued and outstanding 50.0 50.0 10,000 shares
+Common stock $100 par value; authorized 100,000 shares; issued 5.0 5.0 and outstanding 50,000 shares Capital in excess of par value 89.5 89.5 Income retained for growth 129.6 116.4
+Cumulative foreign currency (4.7) (4.5) translation adjustment 269.4 256.4
+$2,063.2 $ 1,999.0
+See notes to consolidated financial statements.
+McDonnell Douglas Finance Corporation and Subsidiaries Consolidated Statement of Income and Income Retained for Growth
+Years ended December 31,
+(Dollars in millions) 1993 1992 1991
+OPERATING INCOME
+Finance lease income $ 94.7 $ 113.0 $ 179.3 Interest income on notes receivable 35.8 47.9 61.5
+Operating lease income, net of depreciation expense of $39.0, $48.8 34.4 33.3 34.1 and $60.0 in 1993, 1992 and 1991, respectively Net gain on disposal or re-lease of 23.7 37.1 45.8 assets
+Postretirement benefit curtailment - 2.8 - gain Other 9.9 20.6 21.6
+198.5 254.7 342.3
+EXPENSES
+Interest expense 116.4 145.9 198.5 Provision for losses 8.6 19.1 47.2
+Operating expenses 20.3 27.4 35.6 Other 12.4 14.3 3.8
+157.7 206.7 285.1
+Income from continuing operations before income taxes and cumulative 40.8 48.0 57.2 effect of accounting change Provision for income taxes 24.0 15.9 19.1
+Income from continuing operations before cumulative effect 16.8 32.1 38.1 of accounting change Discontinued operations, net - (2.5) (1.4) Cumulative effect of n

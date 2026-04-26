@@ -1,0 +1,12 @@
+accordance with generally accepted auditing standards which require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement. An audit includes examining, on a test basis, evidence supporting the amounts and disclosures in the financial statements, assessing the accounting principles used and significant estimates made by management, and evaluating the overall financial statement presentation. We believe that our audits provide a reasonable basis for the opinion expressed above.
+As discussed in Note 8 to the consolidated financial statements, in 1992 the Company adopted the provisions of Statement of Financial Accounting Standards (SFAS) 109, "Accounting for Income Taxes."
+PRICE WATERHOUSE
+Peoria, Illinois January 21, 1994 CATERPILLAR FINANCIAL SERVICES CORPORATION
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION (Millions of dollars)
+December 31, 1993 1992
+Assets: Cash and cash equivalents $ 15.6 $ 11.5 $ 20.4 Finance receivables (Notes 2,3, and 5): Wholesale notes receivable 142.8 49.3 - Retail notes receivable 1,035.5 858.5 623.9 Investment in finance receivables 2,350.8 1,970.1 1,840.8 3,529.1 2,877.9 2,464.7
+Less: Unearned income 348.2 315.8 288.7 Allowance for credit losses 41.5 36.5 31.0 3,139.4 2,525.6 2,145.0
+Equipment on operating leases, less accumulated depreciation (Note 4) 364.6 276.7 283.0 Other assets 45.1 29.5 40.6
+Total assets $3,564.7 $2,843.3 $2,489.0
+Liabilities and stockholder's equity: Payable to dealers and customers $ 13.7 $ 11.1 $ 1.5 Payable to Caterpillar Inc. (Note 10) 3.9 2.9 3.5 Accrued interest payable 33.6 28.0 27.4 Income tax payable (Note 8) 36.0 30.0 8.8 Other liabilities 5.4 3.2 1.1 Short-term borrowings (Note 6) 1,138.2 913.1 672.5 Current maturities of long-term debt (Note 7) 492.5 492.4 562.7 Long-term debt (Note 7) 1,410.4 995.9 876.3 Deferred income taxes (Note 8) 13.0 12.7 22.3 Total liabilities 3,146.7 2,489.3 2,176.1
+Commitments and contingent l

@@ -1,0 +1,11 @@
+. Although there is minimal credit risk, interest rate and prepayment fluctuations impact the market value of these securities. The carrying value of these investments approximates fair value as determined by quoted market prices.
+Interest income for the years ended December 31, 1993, 1992, and 1991 was $4,464,000, $5,899,000, and $6,779,000, respectively.
+Fixed Assets
+Fixed assets are stated at cost. Depreciation and amortization are computed primarily on a straight-line basis over asset lives of three years for office and research equipment, certain computer equipment and purchased software used in research and development activities, and five years for furniture and fixtures, manufacturing equipment, certain computer equipment, and certain purchased software. Fixed assets include the following (in thousands):
+1993 1992 --------- ---------- Equipment $ 98,668 $91,132 Furniture and fixtures 14,997 14,294 Purchased software 9,566 7,612 --------- ---------- 123,231 113,038 Less accumulated depreciation (84,321) (64,932) --------- ---------- $ 38,910 $48,106 ========= ==========
+Inventory
+Inventory is recorded at the lower of cost (on a first-in, first-out basis) or market. Inventory consists of the following (in thousands):
+1993 1992 ---------- ---------- Raw material $ 9,489 $14,426 Work-in-process 5,044 7,498 Finished goods 14,617 16,610 ---------- ---------- $29,150 $38,534 ========== ==========
+Equipment Leased to Customers
+The Company leases equipment to customers under agreements which are classified as sales-type leases in accordance with Statement of Financial Accounting Standards ("SFAS") No. 13. Accordingly, the fair market value of the leased equipment in these agreements has been recorded as revenue. The present value of the lease payments to be received under these agreements has been recorded as current and long-term receivables. Receivables from these leases at December 31, 1993 and 1992 were as follows (in thousands):
+1993 1992 ---------- ---------- F
