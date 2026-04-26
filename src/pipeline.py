@@ -16,6 +16,8 @@ from chunker import chunk_all
 from embedder import Embedder
 from retriever import Retriever
 from generator import Generator
+from dotenv import load_dotenv
+load_dotenv()
 
 
 def load_config(path: str) -> dict:
