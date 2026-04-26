@@ -3,7 +3,8 @@ generator.py
 LLM-based answer generation using retrieved context.
 Supports two prompt strategies: "base" and "structured".
 """
-
+from dotenv import load_dotenv
+load_dotenv()
 import os
 from openai import OpenAI
 from chunker import Chunk
