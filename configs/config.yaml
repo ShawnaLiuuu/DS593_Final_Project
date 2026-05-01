@@ -5,8 +5,8 @@ retrieval:
 
 chunking:
   strategy: "overlap"       # "fixed", "overlap", "sentence"
-  chunk_size: 512            # tokens
-  overlap: 64                # tokens (only used for "overlap" strategy)
+  chunk_size: 256            # tokens
+  overlap: 0                # tokens (only used for "overlap" strategy)
 
 embedding:
   model: "all-MiniLM-L6-v2" # sentence-transformers model

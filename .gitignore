@@ -22,3 +22,4 @@ secrets.yaml
 # Model caches
 .cache/
 huggingface/
+data/processed/documents.json
